@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Runit scripts from the Void Linux project
+EAPI=7
+HOMEPAGE=https://github.com/void-linux/void-runit
+INHERIT=git-r3
+LICENSE=CC0-1.0
+PROPERTIES=live
+RDEPEND=sys-process/runit sys-process/procps virtual/awk sys-apps/util-linux[tty-helpers] !!sys-apps/sysvinit
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=f9a847bd0fff216ac61f0221c95852be

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install unpack
+DEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qtwidgets:5= x11-libs/gtk+:2 x11-libs/libX11 x11-libs/pango
+DESCRIPTION=Additional style plugins for Qt5
+EAPI=7
+HOMEPAGE=http://code.qt.io/cgit/qt/qtstyleplugins.git
+INHERIT=git-r3 qmake-utils
+LICENSE=LGPL-2.1
+PROPERTIES=live
+RDEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qtwidgets:5= x11-libs/gtk+:2 x11-libs/libX11 x11-libs/pango
+SLOT=5
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
+_md5_=a369f0afc378774e0727e9115e0cced1

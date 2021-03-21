@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install prepare unpack
+DEPEND=virtual/yacc
+DESCRIPTION=Run commands as super user or another user, alternative to sudo from OpenBSD
+EAPI=7
+HOMEPAGE=https://github.com/multiplexd/doas
+INHERIT=git-r3
+LICENSE=ISC
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=4fffc23a594a9d74d1be5e6647fdf067
