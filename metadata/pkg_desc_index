@@ -6,7 +6,7 @@ app-shells/zsh-history-substring-search 1.0.2: A ZSH plugin to search history, a
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/android-udev-rules 20210302: Comprehensive list of udev rules to connect to android devices
-dev-util/xxd 8.2.2343: Hexdump utility from vim
+dev-util/xxd 8.2.0854: Hexdump utility from vim
 games-arcade/stepmania 5.0.12 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
