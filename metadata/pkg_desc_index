@@ -5,7 +5,7 @@ app-misc/zscroll 9999: A text scroller for panels or terminals
 app-shells/zsh-history-substring-search 1.0.2: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/android-udev-rules 20201003: Comprehensive list of udev rules to connect to android devices
+dev-util/android-udev-rules 20210302: Comprehensive list of udev rules to connect to android devices
 dev-util/xxd 8.2.2343: Hexdump utility from vim
 games-arcade/stepmania 5.0.12 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
@@ -21,13 +21,12 @@ net-misc/imbpy 9999: A python interface for imageboards
 net-misc/infinityctl 9999: A command line interface for 8chan
 net-misc/pipe-viewer 0.0.7 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/sdhcp 9999: Simple dhcp client
-net-misc/straw-viewer 0.1.2 9999: Application for searching and streaming videos from YouTube, using the API of invidio.us (fork of youtube-viewer).
 net-p2p/frost 2011.03.05: Message board and file sharing client for freenet network
 sys-apps/binfmt-support 2.2.1: Support for extra binary formats
 sys-apps/runit-rc 20210314 99999999: Runit scripts from the Void Linux project
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
-sys-process/snooze 0.4 9999: Run a command at a particular time
+sys-process/snooze 0.5 9999: Run a command at a particular time
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 2.3 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-misc/i3lock 2.13: Simple screen locker
