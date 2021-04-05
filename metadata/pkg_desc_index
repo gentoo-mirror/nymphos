@@ -20,6 +20,7 @@ media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/imbpy 9999: A python interface for imageboards
 net-misc/infinityctl 9999: A command line interface for 8chan
 net-misc/pipe-viewer 0.0.8 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/ripme-bin 1.7.94: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 net-p2p/frost 2011.03.05: Message board and file sharing client for freenet network
 sys-apps/binfmt-support 2.2.1: Support for extra binary formats
