@@ -1,11 +1,13 @@
-DEFINED_PHASES=install
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
 DEPEND=x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi x11-libs/libXt
 DESCRIPTION=Banish the mouse cursor when typing, show it again when the mouse moves
 EAPI=7
 HOMEPAGE=https://github.com/jcs/xbanish
-KEYWORDS=amd64 x86
+INHERIT=git-r3
 LICENSE=BSD
+PROPERTIES=live
 RDEPEND=x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi
 SLOT=0
-SRC_URI=https://github.com/jcs/xbanish/archive/v1.7.tar.gz -> xbanish-1.7.tar.gz
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=65f173c8394679549598a1e901317987

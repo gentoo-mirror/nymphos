@@ -1,11 +1,11 @@
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
-app-admin/sv-helper 2.0.2: Helper for runit-as-pid1 systems
+app-admin/sv-helper 2.0.2 9999: Helper for runit-as-pid1 systems
 app-misc/lf 21 9999: Terminal file manager
 app-misc/zscroll 9999: A text scroller for panels or terminals
-app-shells/zsh-history-substring-search 1.0.2: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
+app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/android-udev-rules 20210302: Comprehensive list of udev rules to connect to android devices
+dev-util/android-udev-rules 20210302 99999999: Comprehensive list of udev rules to connect to android devices
 dev-util/xxd 8.2.0854: Hexdump utility from vim
 games-arcade/stepmania 5.0.12 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
@@ -23,7 +23,7 @@ net-misc/pipe-viewer 0.0.8 9999: A lightweight YouTube client for Linux (fork of
 net-misc/ripme-bin 1.7.94: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 net-p2p/frost 2011.03.05: Message board and file sharing client for freenet network
-sys-apps/binfmt-support 2.2.1: Support for extra binary formats
+sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
 sys-apps/runit-rc 20210314 99999999: Runit scripts from the Void Linux project
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
@@ -32,6 +32,6 @@ www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 2.3 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-misc/i3lock 2.13: Simple screen locker
 x11-misc/sx 2.1.6: Start an xorg server
-x11-misc/xbanish 1.7: Banish the mouse cursor when typing, show it again when the mouse moves
-x11-misc/xtitle 0.4.4: Outputs X window titles
+x11-misc/xbanish 1.7 9999: Banish the mouse cursor when typing, show it again when the mouse moves
+x11-misc/xtitle 0.4.4 9999: Outputs X window titles
 x11-themes/numix-frost-theme 3.6.6 9999: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.

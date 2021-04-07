@@ -1,11 +1,13 @@
-DEFINED_PHASES=install
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
 DEPEND=x11-libs/libxcb x11-libs/xcb-util x11-libs/xcb-util-wm
 DESCRIPTION=Outputs X window titles
 EAPI=7
 HOMEPAGE=https://github.com/baskerville/xtitle
-KEYWORDS=amd64 x86
+INHERIT=git-r3
 LICENSE=Unlicense
+PROPERTIES=live
 RDEPEND=x11-libs/libxcb x11-libs/xcb-util x11-libs/xcb-util-wm
 SLOT=0
-SRC_URI=https://github.com/baskerville/xtitle/archive/0.4.4.tar.gz -> xtitle-0.4.4.tar.gz
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=cc7b813aa0a197127b64f61c511726b7
