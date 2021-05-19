@@ -22,7 +22,6 @@ net-misc/infinityctl 9999: A command line interface for 8chan
 net-misc/pipe-viewer 0.0.9 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
-net-p2p/frost 2011.03.05: Message board and file sharing client for freenet network
 sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
 sys-apps/runit-rc 20210314 99999999: Runit scripts from the Void Linux project
 sys-power/mem-suspend 1: The simplest script for suspending to memory
