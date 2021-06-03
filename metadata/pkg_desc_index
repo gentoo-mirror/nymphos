@@ -19,7 +19,7 @@ media-video/syncplay 1.6.7 1.6.8_beta1 9999: Client/server to synchronize media 
 media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/imbpy 9999: A python interface for imageboards
 net-misc/infinityctl 9999: A command line interface for 8chan
-net-misc/pipe-viewer 0.0.9 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/pipe-viewer 0.1.0 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
