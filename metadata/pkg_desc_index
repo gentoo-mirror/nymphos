@@ -15,11 +15,11 @@ media-fonts/unifont 13.0.06: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 fon
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/ueberzug 18.1.9 9999: A command line utility which display images in X11 terminals
 media-sound/mpvc 1.0.7: An mpc-like cli tool for mpv
-media-video/syncplay 1.6.7 1.6.8_beta1 9999: Client/server to synchronize media playback
+media-video/syncplay 1.6.8 9999: Client/server to synchronize media playback
 media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/imbpy 9999: A python interface for imageboards
 net-misc/infinityctl 9999: A command line interface for 8chan
-net-misc/pipe-viewer 0.1.0 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/pipe-viewer 0.1.2 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
