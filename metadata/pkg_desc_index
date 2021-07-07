@@ -6,7 +6,7 @@ app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search histo
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/android-udev-rules 20210501 99999999: Comprehensive list of udev rules to connect to android devices
-dev-util/xxd 8.2.0854: Hexdump utility from vim
+dev-util/xxd 8.2.3075: Hexdump utility from vim
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
@@ -30,7 +30,7 @@ sys-process/snooze 0.5 9999: Run a command at a particular time
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 2.3 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-misc/i3lock 2.13: Simple screen locker
-x11-misc/sx 2.1.6: Start an xorg server
+x11-misc/sx 2.1.7: Start an xorg server
 x11-misc/xbanish 1.7 9999: Banish the mouse cursor when typing, show it again when the mouse moves
 x11-misc/xtitle 0.4.4 9999: Outputs X window titles
 x11-themes/numix-frost-theme 3.6.6 9999: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.

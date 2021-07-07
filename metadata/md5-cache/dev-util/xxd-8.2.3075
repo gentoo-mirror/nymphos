@@ -8,6 +8,6 @@ LICENSE=GPL-2 MIT
 RDEPEND=!app-editors/vim-core
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://raw.githubusercontent.com/vim/vim/v8.2.0854/src/xxd/xxd.c -> xxd-8.2.0854.c https://raw.githubusercontent.com/vim/vim/v8.2.0854/runtime/doc/xxd.1 -> xxd-8.2.0854.1 https://raw.githubusercontent.com/vim/vim/v8.2.0854/src/xxd/Makefile -> xxd-8.2.0854.mk
+SRC_URI=https://raw.githubusercontent.com/vim/vim/v8.2.3075/src/xxd/xxd.c -> xxd-8.2.3075.c https://raw.githubusercontent.com/vim/vim/v8.2.3075/runtime/doc/xxd.1 -> xxd-8.2.3075.1 https://raw.githubusercontent.com/vim/vim/v8.2.3075/src/xxd/Makefile -> xxd-8.2.3075.mk
 _eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352
 _md5_=75c17c2963b9991b75c55ec4a8da56c7
