@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure unpack
+DEPEND=dev-libs/skalibs sys-kernel/linux-headers
+DESCRIPTION=A mdev-compatible Linux hotplug manager daemon
+EAPI=7
+HOMEPAGE=https://skarnet.org/software/mdevd/
+INHERIT=multilib git-r3
+LICENSE=ISC
+PROPERTIES=live
+RDEPEND=dev-libs/skalibs
+SLOT=0
+_eclasses_=multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=cec695bfc86df766e187601708dd398f

@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DEPEND=sys-kernel/linux-headers
+DESCRIPTION=Daemonless replacement for libudev
+EAPI=7
+HOMEPAGE=https://github.com/illiliti/libudev-zero
+INHERIT=multilib
+KEYWORDS=amd64 x86
+LICENSE=ISC
+RDEPEND=!sys-apps/systemd !sys-fs/eudev !sys-fs/udev
+SLOT=0
+SRC_URI=https://github.com/illiliti/libudev-zero/archive/1.0.0.tar.gz -> libudev-zero-1.0.0.tar.gz
+_eclasses_=multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa
+_md5_=405af47fbc57e3f3d00e33ee79bca8b7

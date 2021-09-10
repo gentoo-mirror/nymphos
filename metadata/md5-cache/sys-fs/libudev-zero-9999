@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=sys-kernel/linux-headers
+DESCRIPTION=Daemonless replacement for libudev
+EAPI=7
+HOMEPAGE=https://github.com/illiliti/libudev-zero
+INHERIT=multilib git-r3
+LICENSE=ISC
+PROPERTIES=live
+RDEPEND=!sys-apps/systemd !sys-fs/eudev !sys-fs/udev
+SLOT=0
+_eclasses_=multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=405af47fbc57e3f3d00e33ee79bca8b7
