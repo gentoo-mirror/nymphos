@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=x11-themes/gtk-engines-murrine
 SLOT=0
 _eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=0e3c7daef19dd194665e2c64370652eb
+_md5_=46e3f809e6d56cbb9135f097419e58eb
