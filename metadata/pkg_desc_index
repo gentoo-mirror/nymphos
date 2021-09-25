@@ -30,6 +30,7 @@ sys-fs/mdevd 0.1.2.0 0.1.4.0 9999: A mdev-compatible Linux hotplug manager daemo
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
 sys-process/snooze 0.5 9999: Run a command at a particular time
+www-apps/stagit 0.9.6 9999: Modular initramfs image creation utility
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 2.3 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-misc/i3lock 2.13: Simple screen locker
