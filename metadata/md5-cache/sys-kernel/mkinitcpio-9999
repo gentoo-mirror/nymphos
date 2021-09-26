@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DESCRIPTION=Modular initramfs image creation utility
+EAPI=7
+HOMEPAGE=https://github.com/archlinux/mkinitcpio
+INHERIT=git-r3
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=app-arch/zstd sys-apps/busybox
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=b0a8e887738f2f82e3cecfd0e3cb2415
