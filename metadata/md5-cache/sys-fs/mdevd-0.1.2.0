@@ -1,13 +1,13 @@
 DEFINED_PHASES=configure
-DEPEND=dev-libs/skalibs sys-kernel/linux-headers
+DEPEND=>=dev-libs/skalibs-2.9.3.0 sys-kernel/linux-headers
 DESCRIPTION=A mdev-compatible Linux hotplug manager daemon
 EAPI=7
 HOMEPAGE=https://skarnet.org/software/mdevd/
 INHERIT=multilib
 KEYWORDS=amd64 x86
 LICENSE=ISC
-RDEPEND=dev-libs/skalibs
+RDEPEND=>=dev-libs/skalibs-2.9.3.0
 SLOT=0
 SRC_URI=https://skarnet.org/software/mdevd/mdevd-0.1.2.0.tar.gz
 _eclasses_=multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa
-_md5_=06732e247f6db28cc180d93f98b2176f
+_md5_=fcf048f12a5f85fba86dd78d69a61eaf
