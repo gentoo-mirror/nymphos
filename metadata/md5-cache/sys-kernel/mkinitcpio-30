@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=app-arch/zstd sys-apps/busybox
 SLOT=0
 SRC_URI=https://github.com/archlinux/mkinitcpio/archive/v30.tar.gz -> mkinitcpio-30.tar.gz
-_md5_=b0a8e887738f2f82e3cecfd0e3cb2415
+_md5_=15eb40c04394b887f1905af0719bac4c
