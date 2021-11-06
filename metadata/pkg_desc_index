@@ -6,7 +6,7 @@ app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search histo
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/android-udev-rules 20210501 99999999: Comprehensive list of udev rules to connect to android devices
-dev-util/xxd 8.2.3533: Hexdump utility from vim
+dev-util/xxd 8.2.3554: Hexdump utility from vim
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
@@ -19,7 +19,7 @@ media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
 media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/imbpy 9999: A python interface for imageboards
 net-misc/infinityctl 9999: A command line interface for 8chan
-net-misc/pipe-viewer 0.1.5 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/pipe-viewer 0.1.6 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
