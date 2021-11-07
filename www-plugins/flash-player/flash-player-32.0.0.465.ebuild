@@ -46,7 +46,7 @@ REQUIRED_USE="
 	debug? ( ppapi? ( !abi_x86_32 ) )
 "
 
-RESTRICT="bindist mirror strip"
+RESTRICT="bindist strip"
 
 RDEPEND="
 	!www-plugins/chrome-binary-plugins[flash(-)]
@@ -72,7 +72,6 @@ RDEPEND="
 
 S="${WORKDIR}"
 
-# Ignore QA warnings in these closed-source binaries, since we can't fix them:
 QA_PREBUILT="usr/*"
 
 src_unpack() {
