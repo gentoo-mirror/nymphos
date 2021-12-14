@@ -11,5 +11,5 @@ LICENSE=BSD
 RDEPEND=dev-libs/libev pam? ( virtual/pam ) x11-libs/cairo[X,xcb(+)] x11-libs/libxcb[xkb] x11-libs/libxkbcommon[X] x11-libs/xcb-util x11-libs/xcb-util-xrm
 SLOT=0
 SRC_URI=https://i3wm.org/i3lock/i3lock-2.13.tar.bz2
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	gnuconfig	262062cef0ba4f22b397193da514a350	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c9df06c186913b43eb211100ef5fe2cf
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4b66d835ec72e021e359bb81eacfe988	gnuconfig	262062cef0ba4f22b397193da514a350	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c9df06c186913b43eb211100ef5fe2cf
 _md5_=16cb7462a40cd86bad9b52a3d79107c2
