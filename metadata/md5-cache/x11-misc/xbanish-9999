@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi
 SLOT=0
 _eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=65f173c8394679549598a1e901317987
+_md5_=97983b9462379baf6ab608c4b699a817

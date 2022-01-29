@@ -10,4 +10,4 @@ LICENSE=OFL-1.1
 SLOT=0
 SRC_URI=https://github.com/alerque/libertinus/releases/download/v7.040/Libertinus-7.040.tar.xz
 _eclasses_=font	0667878c2b594871023dd1833d05996f
-_md5_=e91e583b835c839f47f2fc7203e47cfb
+_md5_=d92278ace1f41c2a17f4f5c29e86b4e8

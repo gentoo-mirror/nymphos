@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=app-shells/zsh
 SLOT=0
 _eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=f2362712e0878d78c5616f97a2b20edb
+_md5_=96259b24c8fe479300d640e9615fe0b3

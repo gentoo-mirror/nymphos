@@ -1,3 +1,4 @@
+acct-group/power 0: System group: power
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-misc/lf 26 9999: Terminal file manager
 app-misc/zscroll 9999: A text scroller for panels or terminals

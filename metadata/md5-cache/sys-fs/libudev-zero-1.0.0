@@ -10,4 +10,4 @@ RDEPEND=!sys-apps/systemd !sys-fs/eudev !sys-fs/udev
 SLOT=0
 SRC_URI=https://github.com/illiliti/libudev-zero/archive/1.0.0.tar.gz -> libudev-zero-1.0.0.tar.gz
 _eclasses_=multilib	de4beb52bfa93c4c5d96792a6b5e1784	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8
-_md5_=405af47fbc57e3f3d00e33ee79bca8b7
+_md5_=a98ff5d01d79af440c7102dc51e2dd23

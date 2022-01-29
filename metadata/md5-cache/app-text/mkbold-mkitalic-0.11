@@ -6,4 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=mkbold-mkitalic
 SLOT=0
 SRC_URI=https://hp.vector.co.jp/authors/VA013651/lib/mkbold-mkitalic-0.11.tar.bz2
-_md5_=08c62cf1d2dc89b0ab8a6c82ab282590
+_md5_=081a0093659edbbd285d9d16cada725d

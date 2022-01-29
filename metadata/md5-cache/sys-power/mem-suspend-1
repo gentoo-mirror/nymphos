@@ -1,10 +1,10 @@
-DEFINED_PHASES=compile install setup
+DEFINED_PHASES=compile install
 DESCRIPTION=The simplest script for suspending to memory
 EAPI=7
 HOMEPAGE=https://wiki.gentoo.org/wiki/No_homepage
-INHERIT=user toolchain-funcs
+INHERIT=toolchain-funcs
 KEYWORDS=amd64 x86
 LICENSE=WTFPL-2
 SLOT=0
-_eclasses_=user-info	2e75eaea3582b052ec16d9d5aa74ced3	user	1033b6bed7cf367c4507ea9a3ff503d0	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784
-_md5_=a79ba28d1db9b4b676c9f91c6ce8bdee
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784
+_md5_=9eb3de9a00e35fd2c147b3be9faffff8
