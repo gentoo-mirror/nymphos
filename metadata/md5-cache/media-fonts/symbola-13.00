@@ -11,5 +11,5 @@ LICENSE=all-rights-reserved
 RESTRICT=bindist
 SLOT=0
 SRC_URI=https://dn-works.com/wp-content/uploads/2020/UFAS-Fonts/Symbola.zip -> symbola-13.00.zip doc? ( https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/Symbola.pdf -> symbola-13.00.pdf )
-_eclasses_=font	0667878c2b594871023dd1833d05996f
+_eclasses_=font	b500e97c1ae30f830e84a95be6e9bd36
 _md5_=e46b17cb556258d7a21fee9bba7a61a6
