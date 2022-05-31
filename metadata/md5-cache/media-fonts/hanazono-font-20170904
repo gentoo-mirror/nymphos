@@ -1,7 +1,7 @@
 BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
 DEFINED_PHASES=install postinst postrm setup
 DESCRIPTION=Hanazono font is a Japanese mincho font based on GlyphWiki
-EAPI=7
+EAPI=8
 HOMEPAGE=https://osdn.net/projects/hanazono-font
 INHERIT=font
 IUSE=X
@@ -10,4 +10,4 @@ LICENSE=OFL-1.1 hanazono-font
 SLOT=0
 SRC_URI=https://osdn.net/projects/hanazono-font/downloads/68253/hanazono-20170904.zip
 _eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
-_md5_=27e98f0db85f3a20ac963d1ed4d911ad
+_md5_=addd4f938c1f793f683ca29be5775a35

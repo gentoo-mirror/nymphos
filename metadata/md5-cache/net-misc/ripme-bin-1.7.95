@@ -1,6 +1,6 @@
 DEFINED_PHASES=install postinst postrm
 DESCRIPTION=Downloads albums in bulk
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/RipMeApp/ripme
 INHERIT=wrapper xdg-utils
 KEYWORDS=amd64 x86
@@ -9,4 +9,4 @@ RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=https://github.com/RipMeApp/ripme/releases/download/1.7.95/ripme.jar -> ripme-1.7.95.jar
 _eclasses_=wrapper	4a1902f969e5718126434fc35f3a0d9c	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
-_md5_=70df46b6e110c38ffade3ccd6ba6ace0
+_md5_=85f5e8b2d5b928ad1c377403cf5d5aa2

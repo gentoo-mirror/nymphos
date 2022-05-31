@@ -2,7 +2,7 @@ BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
 DEFINED_PHASES=install postinst postrm prepare setup
 DEPEND=app-arch/unzip
 DESCRIPTION=Unicode font for Latin, IPA Extensions, Greek, Cyrillic and many Symbol Blocks
-EAPI=7
+EAPI=8
 HOMEPAGE=https://dn-works.com/ufas/
 INHERIT=font
 IUSE=doc X
@@ -12,4 +12,4 @@ RESTRICT=bindist
 SLOT=0
 SRC_URI=https://dn-works.com/wp-content/uploads/2020/UFAS-Fonts/Symbola.zip -> symbola-13.00.zip doc? ( https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/Symbola.pdf -> symbola-13.00.pdf )
 _eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
-_md5_=e46b17cb556258d7a21fee9bba7a61a6
+_md5_=811a1c82a9a8b1b980ddaf27333f7684

@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile install unpack
 DESCRIPTION=Hexdump utility from vim
-EAPI=7
+EAPI=8
 HOMEPAGE=https://www.vim.org/
 INHERIT=toolchain-funcs
 KEYWORDS=amd64 x86
@@ -9,4 +9,4 @@ RDEPEND=!app-editors/vim-core
 SLOT=0
 SRC_URI=https://raw.githubusercontent.com/vim/vim/v8.2.4088/src/xxd/xxd.c -> xxd-8.2.4088.c https://raw.githubusercontent.com/vim/vim/v8.2.4088/src/xxd/Makefile -> xxd-8.2.4088.mk https://raw.githubusercontent.com/vim/vim/v8.2.4088/runtime/doc/xxd.1 -> xxd-8.2.4088.1
 _eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85
-_md5_=e4a16f8d20c9fa6f4b76a220cde85a14
+_md5_=bd11ac12ba8cd8416cabe80e3152855b
