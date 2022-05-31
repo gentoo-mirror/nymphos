@@ -1,18 +1,19 @@
 # Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 DESCRIPTION="Adobe Flash Player Projector"
 HOMEPAGE="https://www.adobe.com/support/flashplayer/debug_downloads.html"
 
+WB_URI="https://web.archive.org/web"
 AF_URI="https://fpdownload.macromedia.com/pub/flashplayer/updaters/${PV%%.*}"
 SRC_URI="
 	!debug? (
-		${AF_URI}/flash_player_sa_linux.x86_64.tar.gz -> flash_player_sa_linux-${PV}-x86_64.tar.gz
+		${WB_URI}/20220331041207if_/${AF_URI}/flash_player_sa_linux.x86_64.tar.gz -> flash_player_sa_linux-${PV}-x86_64.tar.gz
 	)
 	debug? (
-		${AF_URI}/flash_player_sa_linux_debug.x86_64.tar.gz -> flash_player_sa_linux_debug-${PV}-x86_64.tar.gz
+		${WB_URI}/20220331041147if_/${AF_URI}/flash_player_sa_linux_debug.x86_64.tar.gz -> flash_player_sa_linux_debug-${PV}-x86_64.tar.gz
 	)
 "
 
