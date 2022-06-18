@@ -1,4 +1,4 @@
-BDEPEND=|| ( ( >=dev-lang/python-3.10.0_p1-r1:3.10 dev-util/scons[python_targets_python3_10(-)] ) ( >=dev-lang/python-3.9.9-r1:3.9 dev-util/scons[python_targets_python3_9(-)] ) ( >=dev-lang/python-3.8.12_p1-r1:3.8 dev-util/scons[python_targets_python3_8(-)] ) ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=|| ( ( >=dev-lang/python-3.11.0_beta1-r1:3.11 dev-util/scons[python_targets_python3_11(-)] ) ( >=dev-lang/python-3.10.0_p1-r1:3.10 dev-util/scons[python_targets_python3_10(-)] ) ( >=dev-lang/python-3.9.9-r1:3.9 dev-util/scons[python_targets_python3_9(-)] ) ( >=dev-lang/python-3.8.12_p1-r1:3.8 dev-util/scons[python_targets_python3_8(-)] ) ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install setup unpack
 DEPEND=media-libs/libsdl[opengl] >=dev-libs/boost-1.42:0= media-libs/glew:0= media-libs/sdl-image[jpeg,png] media-libs/sdl-ttf media-libs/sdl-mixer[vorbis] media-libs/libmad >=dev-games/guichan-0.8[opengl,sdl] x11-libs/gtk+:3
 DESCRIPTION=An open source implementation of the RealLive virtual machine for Linux and OSX
@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-libs/libsdl[opengl] >=dev-libs/boost-1.42:0= media-libs/glew:0= media-libs/sdl-image[jpeg,png] media-libs/sdl-ttf media-libs/sdl-mixer[vorbis] media-libs/libmad >=dev-games/guichan-0.8[opengl,sdl] x11-libs/gtk+:3
 SLOT=0
 _eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	python-utils-r1	648fe6a039e87233d7f48da72cadb76f	python-any-r1	a3e9c0524a795d7f2767a2cf12a2e8c0	scons-utils	c30e32d0d48c308fe47706846020fdfa	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=a867e15df81c6f38634552c64fcf4a90
+_md5_=1ac66fd5f87dba0103050d9fd0bb1611
