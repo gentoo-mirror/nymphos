@@ -5,10 +5,10 @@ app-misc/lf 27 9999: Terminal file manager
 app-misc/zscroll 2.0.1 9999: A text scroller for panels or terminals
 app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
-dev-lua/lua-language-server 3.2.5 9999: Lua Language Server written in Lua
+dev-lua/lua-language-server 3.4.0 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/android-udev-rules 20220611 99999999: Comprehensive list of udev rules to connect to android devices
-dev-util/xxd 8.2.4088: Hexdump utility from vim
+dev-util/xxd 9.0.0008: Hexdump utility from vim
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
@@ -36,7 +36,7 @@ sys-process/snooze 0.5 9999: Run a command at a particular time
 www-apps/stagit 1.1 9999: Modular initramfs image creation utility
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
-x11-misc/i3lock 2.13: Simple screen locker
+x11-misc/i3lock 2.14.1: Simple screen locker
 x11-misc/sx 2.1.7: Start an xorg server
 x11-misc/xbanish 1.8 9999: Banish the mouse cursor when typing, show it again when the mouse moves
 x11-misc/xtitle 0.4.4 9999: Outputs X window titles
