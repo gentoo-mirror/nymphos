@@ -12,4 +12,4 @@ RESTRICT=bindist
 SLOT=0
 SRC_URI=https://dn-works.com/wp-content/uploads/2020/UFAS-Fonts/Symbola.zip -> symbola-13.00.zip doc? ( https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/Symbola.pdf -> symbola-13.00.pdf )
 _eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
-_md5_=811a1c82a9a8b1b980ddaf27333f7684
+_md5_=321e2dc040b72b94bc3df1547413609c

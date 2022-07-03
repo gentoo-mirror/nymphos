@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=sys-process/runit sys-process/procps virtual/awk sys-apps/util-linux[tty-helpers] !sys-apps/sysvinit
 SLOT=0
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=be62045288071a6b8010a3cad70955c0
+_md5_=090910575ad341ecbd7d65a0b4f255a4
