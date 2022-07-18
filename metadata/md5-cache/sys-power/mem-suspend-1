@@ -7,5 +7,5 @@ KEYWORDS=amd64 x86
 LICENSE=WTFPL-2
 RDEPEND=acct-group/power
 SLOT=0
-_eclasses_=toolchain-funcs	3484f775017f532a8d1ae02c65defe13	multilib	4fbbbc98f236f1b43acd99476bc3cd85
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157
 _md5_=83df72cfb1b989c61fe3bb5e6f6990b3
