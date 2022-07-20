@@ -16,7 +16,7 @@ media-fonts/libertinus 7.040: A fork of the Linux Libertine and Linux Biolinum f
 media-fonts/symbola 13.00: Unicode font for Latin, IPA Extensions, Greek, Cyrillic and many Symbol Blocks
 media-fonts/unifont 14.0.04: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
-media-sound/mpvc 1.1.0: An mpc-like cli tool for mpv
+media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
 media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
 media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/imbpy 9999: A python interface for imageboards
