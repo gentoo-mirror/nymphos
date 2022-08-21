@@ -26,6 +26,7 @@ net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
+sys-apps/duf 0.8.1 9999: Disk Usage/Free Utility - a better 'df' alternative
 sys-apps/void-runit 20220329 99999999: Runit scripts from the Void Linux project
 sys-fs/libudev-zero 1.0.1 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.5.2 9999: A mdev-compatible Linux hotplug manager daemon
