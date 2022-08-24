@@ -30,7 +30,6 @@ sys-apps/duf 0.8.1 9999: Disk Usage/Free Utility - a better 'df' alternative
 sys-apps/void-runit 20220329 99999999: Runit scripts from the Void Linux project
 sys-fs/libudev-zero 1.0.1 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.5.2 9999: A mdev-compatible Linux hotplug manager daemon
-sys-kernel/mkinitcpio 31 9999: Modular initramfs image creation utility
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
 sys-process/snooze 0.5 9999: Run a command at a particular time
