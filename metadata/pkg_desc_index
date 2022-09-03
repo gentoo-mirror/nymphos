@@ -2,7 +2,6 @@ acct-group/adbusers 0: System group: adbusers
 acct-group/power 0: System group: power
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-misc/lf 27 9999: Terminal file manager
-app-misc/zscroll 2.0.1 9999: A text scroller for panels or terminals
 app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-lua/lua-language-server 3.5.3 9999: Lua Language Server written in Lua
@@ -18,7 +17,6 @@ media-fonts/unifont 14.0.04: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 fon
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
 media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
-media-video/webm 0.12.1 9999: Cross-platform command-line WebM converter
 net-misc/pipe-viewer 0.2.3 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
