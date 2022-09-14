@@ -4,20 +4,20 @@ app-admin/doas 9999: Run commands as super user or another user, alternative to 
 app-misc/lf 27 9999: Terminal file manager
 app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
-dev-lua/lua-language-server 3.5.3 9999: Lua Language Server written in Lua
+dev-lua/lua-language-server 3.5.5 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/android-udev-rules 20220611 99999999: Comprehensive list of udev rules to connect to android devices
-dev-util/xxd 9.0.0008: Hexdump utility from vim
+dev-util/android-udev-rules 20220903 99999999: Comprehensive list of udev rules to connect to android devices
+dev-util/xxd 9.0.0395: Hexdump utility from vim
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
 media-fonts/libertinus 7.040: A fork of the Linux Libertine and Linux Biolinum fonts
 media-fonts/symbola 13.00: Unicode font for Latin, IPA Extensions, Greek, Cyrillic and many Symbol Blocks
-media-fonts/unifont 14.0.04: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
+media-fonts/unifont 15.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
 media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
-net-misc/pipe-viewer 0.2.3 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/pipe-viewer 0.3.1 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
