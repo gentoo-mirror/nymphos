@@ -4,7 +4,7 @@ app-admin/doas 9999: Run commands as super user or another user, alternative to 
 app-misc/lf 27 9999: Terminal file manager
 app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
-dev-lua/lua-language-server 3.5.5 9999: Lua Language Server written in Lua
+dev-lua/lua-language-server 3.5.6 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/android-udev-rules 20220903 99999999: Comprehensive list of udev rules to connect to android devices
 dev-util/xxd 9.0.0395: Hexdump utility from vim
