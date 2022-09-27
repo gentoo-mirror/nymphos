@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/opengl virtual/dotnet-sdk
+DESCRIPTION=rhythm is just a *click* away!
+EAPI=8
+HOMEPAGE=https://osu.ppy.sh/
+INHERIT=git-r3
+LICENSE=MIT CC-BY-NC-4.0
+PROPERTIES=live
+RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/opengl virtual/dotnet-sdk
+RESTRICT=network-sandbox
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=e2dac791c3750f149a9106d93b736b56
