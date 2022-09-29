@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=install prepare unpack
+DEFINED_PHASES=install unpack
 DEPEND=virtual/yacc
 DESCRIPTION=Run commands as super user or another user, alternative to sudo from OpenBSD
 EAPI=8
@@ -9,4 +9,4 @@ LICENSE=ISC
 PROPERTIES=live
 SLOT=0
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=d915f71bd6f1c158ac95260a6a3de191
+_md5_=8b2398618f94469275c4bbb1a65baf7b
