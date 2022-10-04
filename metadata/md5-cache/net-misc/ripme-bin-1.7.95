@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=https://github.com/RipMeApp/ripme/releases/download/1.7.95/ripme.jar -> ripme-1.7.95.jar
-_eclasses_=xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
+_eclasses_=xdg-utils	ac0e315a3688929e34ac75b139e7349a
 _md5_=e3da779c6e017d31dfd76d5558ebdc16
