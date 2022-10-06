@@ -32,5 +32,4 @@ x11-misc/i3lock 2.14.1: Simple screen locker
 x11-misc/sx 2.1.7: Start an xorg server
 x11-misc/xbanish 1.8 9999: Banish the mouse cursor when typing, show it again when the mouse moves
 x11-misc/xtitle 0.4.4 9999: Outputs X window titles
-x11-themes/numix-frost-theme 3.6.6 9999: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
