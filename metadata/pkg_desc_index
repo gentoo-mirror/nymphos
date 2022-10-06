@@ -1,7 +1,6 @@
 acct-group/power 0: System group: power
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-misc/lf 27 9999: Terminal file manager
-app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 dev-lua/lua-language-server 3.5.6 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.0395: Hexdump utility from vim
@@ -9,8 +8,6 @@ games-arcade/osu-lazer 2022.923.1 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
-media-fonts/libertinus 7.040: A fork of the Linux Libertine and Linux Biolinum fonts
-media-fonts/symbola 13.00: Unicode font for Latin, IPA Extensions, Greek, Cyrillic and many Symbol Blocks
 media-fonts/unifont 15.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
@@ -25,11 +22,9 @@ sys-fs/libudev-zero 1.0.1 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.6.0 9999: A mdev-compatible Linux hotplug manager daemon
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
-sys-process/snooze 0.5 9999: Run a command at a particular time
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-misc/i3lock 2.14.1: Simple screen locker
 x11-misc/sx 2.1.7: Start an xorg server
-x11-misc/xbanish 1.8 9999: Banish the mouse cursor when typing, show it again when the mouse moves
 x11-misc/xtitle 0.4.4 9999: Outputs X window titles
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
