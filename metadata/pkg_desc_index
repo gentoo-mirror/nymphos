@@ -12,7 +12,7 @@ media-fonts/unifont 15.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 fon
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
 media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
-net-misc/pipe-viewer 0.3.1 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
+net-misc/pipe-viewer 0.4.0 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/binfmt-support 2.2.2 9999: Support for extra binary formats
