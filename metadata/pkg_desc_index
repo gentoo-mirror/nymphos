@@ -2,7 +2,6 @@ acct-group/power 0: System group: power
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-misc/lf 27 9999: Terminal file manager
 app-shells/zsh-history-substring-search 1.0.2 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
-app-text/mkbold-mkitalic 0.11: Make X11 BDF fonts bold and/or italic
 dev-lua/lua-language-server 3.5.6 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.0395: Hexdump utility from vim
@@ -18,7 +17,6 @@ media-sound/mpvc 1.1.2: An mpc-like cli tool for mpv
 media-video/syncplay 1.6.9 9999: Client/server to synchronize media playback
 net-misc/pipe-viewer 0.3.1 9999: A lightweight YouTube client for Linux (fork of straw-viewer)
 net-misc/ripme-bin 1.7.95: Downloads albums in bulk
-net-misc/sdhcp 9999: Simple dhcp client
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/binfmt-support 2.2.1 9999: Support for extra binary formats
 sys-apps/duf 0.8.1 9999: Disk Usage/Free Utility - a better 'df' alternative
