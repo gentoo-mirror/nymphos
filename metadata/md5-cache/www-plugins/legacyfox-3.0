@@ -6,4 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=MPL-2.0
 SLOT=0
 SRC_URI=https://git.gir.st/LegacyFox.git/snapshot/v3.0.tar.gz -> LegacyFox-v3.0-0548b59.tar.gz
-_md5_=a4db6aec48b752eb5c2bcfaa32490532
+_md5_=41874eaea6f12f0ef1feabda077a3812

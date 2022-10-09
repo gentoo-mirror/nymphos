@@ -8,4 +8,4 @@ LICENSE=ISC
 RDEPEND=>=dev-libs/skalibs-2.12.0.1
 SLOT=0
 SRC_URI=https://skarnet.org/software/mdevd/mdevd-0.1.6.0.tar.gz
-_md5_=5288b0199278f0eb885f10283d4f9e9f
+_md5_=206e886616e1c81c9883a0cc6dda29ea

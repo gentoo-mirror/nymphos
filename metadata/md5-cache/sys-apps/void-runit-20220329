@@ -7,4 +7,4 @@ LICENSE=CC0-1.0
 RDEPEND=sys-process/runit sys-process/procps virtual/awk sys-apps/util-linux[tty-helpers] !sys-apps/sysvinit
 SLOT=0
 SRC_URI=https://github.com/void-linux/void-runit/archive/20220329.tar.gz -> void-runit-20220329.tar.gz
-_md5_=090910575ad341ecbd7d65a0b4f255a4
+_md5_=09bf6f7e9650d89705f46e7bef870341

@@ -10,4 +10,4 @@ LICENSE=OFL-1.1 hanazono-font
 SLOT=0
 SRC_URI=https://osdn.net/projects/hanazono-font/downloads/68253/hanazono-20170904.zip
 _eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
-_md5_=7a31e9eb8e322cee1629566313485ed8
+_md5_=6c8e90c9852a250c9097f32163cb601f
