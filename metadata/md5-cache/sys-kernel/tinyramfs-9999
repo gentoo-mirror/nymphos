@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=app-text/scdoc
+DESCRIPTION=Tiny initramfs written in POSIX shell
+EAPI=8
+HOMEPAGE=https://github.com/neeshy/tinyramfs
+INHERIT=git-r3
+LICENSE=GPL-3+
+PROPERTIES=live
+RDEPEND=sys-apps/busybox
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=03bdcf652816b1ddeccac7f2a61f915e
