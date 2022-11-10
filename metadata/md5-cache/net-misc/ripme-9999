@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Downloads albums in bulk
+EAPI=8
+HOMEPAGE=https://github.com/ripmeapp2/ripme
+INHERIT=git-r3
+LICENSE=MIT
+PROPERTIES=live
+RDEPEND=virtual/jre
+RESTRICT=network-sandbox
+SLOT=0
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=957d904ac83d00a670fa28330e865582
