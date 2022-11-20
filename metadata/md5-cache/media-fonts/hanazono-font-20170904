@@ -9,5 +9,5 @@ KEYWORDS=amd64 x86
 LICENSE=OFL-1.1 hanazono-font
 SLOT=0
 SRC_URI=https://osdn.net/projects/hanazono-font/downloads/68253/hanazono-20170904.zip
-_eclasses_=font	9cdfddf092c05c7c4efd70cc30dea046
+_eclasses_=font	5e03cb70902daa9ff8967c61130f0f60
 _md5_=6c8e90c9852a250c9097f32163cb601f
