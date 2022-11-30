@@ -2,7 +2,7 @@ acct-group/power 0: System group: power
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-misc/lf 27 9999: Terminal file manager
 dev-libs/atk 2.46.0: GTK+ & GNOME Accessibility Toolkit
-dev-lua/lua-language-server 3.6.3 9999: Lua Language Server written in Lua
+dev-lua/lua-language-server 3.6.4 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.0395: Hexdump utility from vim
 games-arcade/osu-lazer 2022.1123.0 9999: rhythm is just a *click* away!
