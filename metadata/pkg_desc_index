@@ -5,7 +5,7 @@ dev-libs/atk 2.46.0: GTK+ & GNOME Accessibility Toolkit
 dev-lua/lua-language-server 3.6.4 9999: Lua Language Server written in Lua
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.0395: Hexdump utility from vim
-games-arcade/osu-lazer 2022.1123.0 9999: rhythm is just a *click* away!
+games-arcade/osu-lazer 2022.1205.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
