@@ -1,8 +1,8 @@
 --- a/meson.build
 +++ b/meson.build
-@@ -12,13 +12,9 @@
+@@ -10,13 +10,9 @@
  
- fs = import('fs')
+ add_project_arguments([ '-D_POSIX_C_SOURCE=200809L', '-D_DEFAULT_SOURCE' ], language: 'c')
  
 -atspi_gir_ns = 'Atspi'
 -
@@ -14,7 +14,7 @@
  atk_version = meson.project_version()
  version = atk_version.split('.')
  atk_major_version = version[0].to_int()
-@@ -44,11 +40,6 @@
+@@ -42,11 +38,6 @@
    add_project_arguments(cc.get_supported_arguments(['-FImsvc_recommended_pragmas.h', '-utf-8']), language: 'c')
  endif
  
@@ -26,7 +26,7 @@
  # Compiler and linker flags
  common_cflags = []
  common_ldflags = []
-@@ -100,37 +91,18 @@
+@@ -98,38 +89,19 @@
  
  root_inc = include_directories('.')
  atk_inc = include_directories('atk')
@@ -55,6 +55,7 @@
  gobject_req_version = '>= 2.0.0'
 -gmodule_req_version = '>= 2.0.0'
 -gio_req_version = '>= 2.28.0'
+ gir_req_version = '>= 0.6.7'
 -libxml_req_version = '>= 2.9.1'
  
 -libdbus_dep = dependency('dbus-1', version: libdbus_req_version)
@@ -64,24 +65,33 @@
  if cc.has_function('dlopen')
    dl_dep = []
  elif cc.has_function('dlopen', args: '-ldl')
-@@ -139,40 +111,6 @@
+@@ -137,49 +109,6 @@
+ else
    error('Could not find a library with the dlopen function')
  endif
- gmodule_dep = dependency('gmodule-2.0', version: gmodule_req_version)
+-gmodule_dep = dependency('gmodule-2.0', version: gmodule_req_version)
 -libxml_dep = dependency('libxml-2.0', version: libxml_req_version)
 -
 -x11_deps = []
--x11_dep = dependency('x11', required: get_option('x11'))
--if x11_dep.found()
--  x11_deps += x11_dep
--  at_spi_conf.set('HAVE_X11', 1)
--  xtest_dep = dependency('xtst')
--  x11_deps += xtest_dep
--  if cc.has_function('XkbGetMap', dependencies: x11_deps)
--    at_spi_conf.set('HAVE_XKB', 1)
+-x11_option = get_option('x11')
+-# ensure x11_dep is defined for use elsewhere, such as bus/meson.build
+-x11_dep = dependency('', required: false)
+-if x11_option != 'no'
+-  x11_dep = dependency('x11', required: false)
+-
+-  if x11_dep.found()
+-    x11_deps += x11_dep
+-    at_spi_conf.set('HAVE_X11', 1)
+-    xtest_dep = dependency('xtst')
+-    x11_deps += xtest_dep
+-
+-    if cc.has_function('XkbGetMap', dependencies: x11_deps)
+-      at_spi_conf.set('HAVE_XKB', 1)
+-    endif
+-
+-    xinput_dep = dependency('xi')
+-    x11_deps += xinput_dep
 -  endif
--  xinput_dep = dependency('xi')
--  x11_deps += xinput_dep
 -endif
 -
 -# Alignments
@@ -104,8 +114,8 @@
 -at_spi_conf.set('ALIGNOF_DBIND_STRUCT', cc.alignment('dbind_struct', prefix: 'typedef struct { char s1; } dbind_struct;'))
  
  # introspection support
- gir = find_program('g-ir-scanner', required : get_option('introspection'))
-@@ -185,24 +123,7 @@
+ have_gir = false
+@@ -200,24 +129,7 @@
  pkgconfig = import('pkgconfig')
  gnome = import('gnome')
  
