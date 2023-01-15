@@ -1,13 +1,13 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=configure unpack
-DEPEND=>=dev-libs/skalibs-2.12.0.1 sys-kernel/linux-headers
+DEPEND=>=dev-libs/skalibs-2.13.0.0 sys-kernel/linux-headers
 DESCRIPTION=A mdev-compatible Linux hotplug manager daemon
 EAPI=8
 HOMEPAGE=https://skarnet.org/software/mdevd/
 INHERIT=git-r3
 LICENSE=ISC
 PROPERTIES=live
-RDEPEND=>=dev-libs/skalibs-2.12.0.1
+RDEPEND=>=dev-libs/skalibs-2.13.0.0
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=206e886616e1c81c9883a0cc6dda29ea
+_md5_=ffffa52e3d492e098afcfb07681a6223
