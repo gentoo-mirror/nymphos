@@ -27,7 +27,7 @@ sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
+x11-apps/sx 2.1.7: Start an xorg server
 x11-misc/i3lock 2.14.1: Simple screen locker
-x11-misc/sx 2.1.7: Start an xorg server
 x11-misc/xtitle 0.4.4 9999: Outputs X window titles
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
