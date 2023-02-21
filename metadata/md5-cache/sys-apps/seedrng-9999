@@ -1,6 +1,6 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=unpack
-DESCRIPTION=Configuration and helper scripts for busybox mdev and mdevd
+DESCRIPTION=Simple utility for seeding the Linux kernel RNG with seed files
 EAPI=8
 HOMEPAGE=https://git.zx2c4.com/seedrng/about/
 INHERIT=git-r3
@@ -8,4 +8,4 @@ LICENSE=GPL-2 Apache-2.0 MIT BSD-1 CC0-1.0
 PROPERTIES=live
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=c043ae4cb618f2dda53893110c727db2
+_md5_=571b1a23d676d3154e312b5d2557df69
