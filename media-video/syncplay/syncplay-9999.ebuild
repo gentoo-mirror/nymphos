@@ -1,4 +1,4 @@
-# Copyright 2022 Gentoo Authors
+# Copyright 2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -23,7 +23,6 @@ SLOT="0"
 RDEPEND="
 	>=dev-python/certifi-2018.11.29[${PYTHON_USEDEP}]
 	>=dev-python/twisted-16.4.0[ssl,${PYTHON_USEDEP}]"
-DEPEND="dev-python/setuptools[${PYTHON_USEDEP}]"
 
 src_prepare() {
 	default
