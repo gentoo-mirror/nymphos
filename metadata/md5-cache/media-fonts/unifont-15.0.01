@@ -11,4 +11,4 @@ LICENSE=GPL-2
 SLOT=0
 SRC_URI=mirror://gnu/unifont/unifont-15.0.01/unifont-15.0.01.tar.gz
 _eclasses_=font	5e03cb70902daa9ff8967c61130f0f60
-_md5_=65bce2d370b0cca6e5c5a3d23cef4aa6
+_md5_=6f5628a81a006528cc8e49d8811cae79

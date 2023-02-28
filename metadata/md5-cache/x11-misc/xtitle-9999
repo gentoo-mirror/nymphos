@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=x11-libs/libxcb x11-libs/xcb-util x11-libs/xcb-util-wm
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=dee8107b85392b6ac4fa7d15cb3f2fc4
+_md5_=751eaba6e833193d6b27baaf5566f357

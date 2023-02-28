@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/busybox
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=03bdcf652816b1ddeccac7f2a61f915e
+_md5_=ef78601692c5347e00edaab34ebcc203

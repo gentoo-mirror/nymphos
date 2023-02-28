@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=systemd? ( sys-apps/systemd )
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=47b3476d47e8bfe164e6f4819b9aaa70
+_md5_=6c8b89475fd1ba8836161210c3eae389

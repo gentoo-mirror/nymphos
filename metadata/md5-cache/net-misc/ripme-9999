@@ -10,4 +10,4 @@ RDEPEND=virtual/jre
 RESTRICT=network-sandbox
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=957d904ac83d00a670fa28330e865582
+_md5_=210450380e123b996ba6bda69ed881f2

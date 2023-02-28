@@ -2,12 +2,12 @@ BDEPEND=|| ( ( >=dev-lang/python-3.11.1-r1:3.11 >=dev-util/scons-4.4.0[python_ta
 DEFINED_PHASES=compile install setup unpack
 DEPEND=media-libs/libsdl[opengl] >=dev-libs/boost-1.42:0= media-libs/glew:0= media-libs/sdl-image[jpeg,png] media-libs/sdl-ttf media-libs/sdl-mixer[vorbis] media-libs/libmad >=dev-games/guichan-0.8[opengl,sdl] x11-libs/gtk+:3
 DESCRIPTION=An open source implementation of the RealLive virtual machine for Linux and OSX
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/eglaysher/rlvm
 INHERIT=python-any-r1 scons-utils git-r3
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=media-libs/libsdl[opengl] >=dev-libs/boost-1.42:0= media-libs/glew:0= media-libs/sdl-image[jpeg,png] media-libs/sdl-ttf media-libs/sdl-mixer[vorbis] media-libs/libmad >=dev-games/guichan-0.8[opengl,sdl] x11-libs/gtk+:3
 SLOT=0
-_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	429bfd4e8d8e39db5385ba5744f30788	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	scons-utils	03ca4edc3a0fdb533f0f358787059bdc	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=568b38b27581dc8140487916058eef3e
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	429bfd4e8d8e39db5385ba5744f30788	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	scons-utils	03ca4edc3a0fdb533f0f358787059bdc	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=948eb52a7797e526170008a6ffd3c99d
