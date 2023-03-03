@@ -1,4 +1,4 @@
-BDEPEND=app-arch/unzip
+BDEPEND=app-arch/unzip dev-util/ninja
 DEFINED_PHASES=compile install
 DESCRIPTION=Lua Language Server written in Lua
 EAPI=8
@@ -10,4 +10,4 @@ LICENSE=MIT
 SLOT=0
 SRC_URI=https://github.com/LuaLS/lua-language-server/releases/download/3.6.13/lua-language-server-3.6.13-submodules.zip
 _eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	bddcb51b74f4a76724ff7cf8e7388869	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	lua-utils	e69ff116248d78546ae1a234c086fe80	lua	d5c7dbcaf69f3065f5d7ce3b172c2214
-_md5_=0a8adf96a150098c09ab71f307fa2e1c
+_md5_=04e695e43888d1e9a288cdb983433168
