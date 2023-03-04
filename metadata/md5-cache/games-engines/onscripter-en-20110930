@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=app-arch/bzip2 media-libs/freetype media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg
 SLOT=0
 SRC_URI=https://kaisernet.org/onscripter/releases/onscripter-en-20110930-src.tar.bz2
-_md5_=c7c58f7fed1f226620999a5db8711a96
+_md5_=9a08aa6ba42e0d6e6a40f7585e30cdc6
