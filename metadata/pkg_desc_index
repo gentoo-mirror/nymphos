@@ -17,7 +17,6 @@ sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/mdev-conf 4.3 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
-sys-apps/void-runit 20220329 99999999: Runit scripts from the Void Linux project
 sys-fs/libudev-zero 1.0.1 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.6.2 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell

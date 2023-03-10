@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=unpack
+DEFINED_PHASES=install unpack
 DESCRIPTION=Configuration and helper scripts for busybox mdev and mdevd
 EAPI=8
 HOMEPAGE=https://gitlab.alpinelinux.org/alpine/mdev-conf
@@ -8,4 +8,4 @@ LICENSE=MIT
 PROPERTIES=live
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=9f7c96530bc5f7c489df0f9f17350efb
+_md5_=c5fc1cf6ce6b28c7857b53b85db11bb3

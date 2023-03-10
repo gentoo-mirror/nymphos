@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=unpack
+DEFINED_PHASES=install unpack
 DEPEND=app-text/scdoc
 DESCRIPTION=Tiny initramfs written in POSIX shell
 EAPI=8
@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/busybox
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=ef78601692c5347e00edaab34ebcc203
+_md5_=11102dc4dffad5e79a36afd5e81328f9
