@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile install
-DEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/opengl virtual/dotnet-sdk:6.0
+DEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/dotnet-sdk:6.0 virtual/opengl
 DESCRIPTION=rhythm is just a *click* away!
 EAPI=8
 HOMEPAGE=https://osu.ppy.sh/
 KEYWORDS=amd64
 LICENSE=MIT CC-BY-NC-4.0
-RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/opengl virtual/dotnet-sdk:6.0
+RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/dotnet-sdk:6.0 virtual/opengl
 RESTRICT=network-sandbox
 SLOT=0
 SRC_URI=https://github.com/ppy/osu/archive/2023.305.0.tar.gz -> osu-lazer-2023.305.0.tar.gz
-_md5_=398e4661acb60fb681dbc4c2f2bffa58
+_md5_=36f3057bb96a81acf233de7c12e72f7e
