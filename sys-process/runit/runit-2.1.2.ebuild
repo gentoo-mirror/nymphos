@@ -43,7 +43,5 @@ src_install() {
 	doman man/*.8
 	dodoc package/{CHANGES,README,THANKS,TODO}
 	docinto html
-	dodoc doc/{chpst,runit-init,runit,runsv,runsvchdir,runsvdir,sv,svlogd,utmpset}.8.html
-	dodoc doc/{benefits,dependencies,faq,index,install,replaceinit,runlevels,runscripts,upgrade,usedietlibc,useinit}.html
-
+	dodoc doc/*.html
 }
