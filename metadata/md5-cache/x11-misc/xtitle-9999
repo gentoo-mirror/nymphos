@@ -9,5 +9,5 @@ LICENSE=Unlicense
 PROPERTIES=live
 RDEPEND=x11-libs/libxcb x11-libs/xcb-util x11-libs/xcb-util-wm
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=0a1bb0d6d8d7ace9b3fbc4b7a9956f3c
