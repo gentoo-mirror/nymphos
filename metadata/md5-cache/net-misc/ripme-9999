@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=virtual/jre
 RESTRICT=network-sandbox
 SLOT=0
-_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
 _md5_=a9fa88a1b0007b66a2c03a38a717be4b
