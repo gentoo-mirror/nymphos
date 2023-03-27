@@ -8,5 +8,5 @@ LICENSE=MIT CC-BY-NC-4.0
 RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/dotnet-sdk:6.0 virtual/opengl
 RESTRICT=network-sandbox
 SLOT=0
-SRC_URI=https://github.com/ppy/osu/archive/2023.305.0.tar.gz -> osu-lazer-2023.305.0.tar.gz
+SRC_URI=https://github.com/ppy/osu/archive/2023.326.0.tar.gz -> osu-lazer-2023.326.0.tar.gz
 _md5_=36f3057bb96a81acf233de7c12e72f7e

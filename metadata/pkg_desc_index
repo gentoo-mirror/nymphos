@@ -4,18 +4,18 @@ app-admin/doas 9999: Run commands as super user or another user, alternative to 
 dev-libs/atk 2.48.0: GTK+ & GNOME Accessibility Toolkit
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.1383: Hexdump utility from vim
-games-arcade/osu-lazer 2023.305.0 9999: rhythm is just a *click* away!
+games-arcade/osu-lazer 2023.326.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
 media-fonts/unifont 15.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
-media-sound/mpvc 1.1.4: An mpc-like cli tool for mpv
+media-sound/mpvc 1.2.0: An mpc-like cli tool for mpv
 net-misc/ripme 2.1.3 9999: Downloads albums in bulk
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/bootlogd 3.06 9999: bootlogd extracted from sysvinit
-sys-apps/mdev-conf 4.3 9999: Configuration and helper scripts for busybox mdev and mdevd
+sys-apps/mdev-conf 4.4 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-fs/libudev-zero 1.0.1 9999: Daemonless replacement for libudev
