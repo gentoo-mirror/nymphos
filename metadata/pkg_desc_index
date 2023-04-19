@@ -4,7 +4,7 @@ app-admin/doas 9999: Run commands as super user or another user, alternative to 
 dev-libs/atk 2.48.0: GTK+ & GNOME Accessibility Toolkit
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.1383: Hexdump utility from vim
-games-arcade/osu-lazer 2023.403.1 9999: rhythm is just a *click* away!
+games-arcade/osu-lazer 2023.419.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
