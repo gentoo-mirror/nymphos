@@ -14,8 +14,8 @@ media-fonts/unifont 15.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 fon
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-sound/mpvc 1.2.1: An mpc-like cli tool for mpv
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
-sys-apps/bootlogd 3.06 9999: bootlogd extracted from sysvinit
-sys-apps/mdev-conf 4.4 9999: Configuration and helper scripts for busybox mdev and mdevd
+sys-apps/bootlogd 3.07 9999: bootlogd extracted from sysvinit
+sys-apps/mdev-conf 4.5 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-fs/libudev-zero 1.0.2 9999: Daemonless replacement for libudev

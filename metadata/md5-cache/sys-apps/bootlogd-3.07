@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/slicer69/sysvinit
 KEYWORDS=amd64
 LICENSE=GPL-2+
 SLOT=0
-SRC_URI=https://github.com/slicer69/sysvinit/releases/download/3.06/sysvinit-3.06.tar.xz
+SRC_URI=https://github.com/slicer69/sysvinit/releases/download/3.07/sysvinit-3.07.tar.xz
 _md5_=9f1bc5290605e94609ec2147f209db6f
