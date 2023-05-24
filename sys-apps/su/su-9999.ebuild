@@ -18,6 +18,6 @@ src_compile() {
 
 src_install() {
 	dobin "${PN}"
-	fperms +s "/usr/bin/${PN}"
+	fperms u+s "/usr/bin/${PN}"
 	doman "${PN}.1"
 }
