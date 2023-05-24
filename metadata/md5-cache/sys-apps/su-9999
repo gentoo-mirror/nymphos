@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=su from ubase
+EAPI=8
+HOMEPAGE=https://core.suckless.org/ubase/
+INHERIT=git-r3
+LICENSE=MIT
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
+_md5_=2bbe6ccd26f0624425ec40ce5fb865c6
