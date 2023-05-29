@@ -9,6 +9,6 @@ IUSE=bold X
 KEYWORDS=amd64
 LICENSE=GPL-2
 SLOT=0
-SRC_URI=mirror://gnu/unifont/unifont-15.0.03/unifont-15.0.03.tar.gz
+SRC_URI=mirror://gnu/unifont/unifont-15.0.04/unifont-15.0.04.tar.gz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
 _md5_=6d3ce046c463cb43c2b51d045f8d40db
