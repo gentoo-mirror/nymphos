@@ -8,5 +8,5 @@ LICENSE=GPL-2 MIT
 RDEPEND=!app-editors/vim-core
 SLOT=0
 SRC_URI=https://raw.githubusercontent.com/vim/vim/v9.0.1383/src/xxd/xxd.c -> xxd-9.0.1383.c https://raw.githubusercontent.com/vim/vim/v9.0.1383/src/xxd/Makefile -> xxd-9.0.1383.mk https://raw.githubusercontent.com/vim/vim/v9.0.1383/runtime/doc/xxd.1 -> xxd-9.0.1383.1
-_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1
+_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	c19072c3cd7ac5cb21de013f7e9832e0
 _md5_=222a763e0aa9ee1099c1b0c92f6c87df
