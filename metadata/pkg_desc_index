@@ -1,5 +1,5 @@
 acct-group/power 0: System group: power
-app-accessibility/at-spi2-core 2.48.2: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-core 2.48.3: D-Bus accessibility specifications and registration daemon
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-admin/keepassxc 2.7.5: KeePassXC - KeePass Cross-platform Community Edition - CLI Only
 app-misc/htmlq 0.4.0: Like jq, but for HTML
