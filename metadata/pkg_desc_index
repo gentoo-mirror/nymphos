@@ -5,7 +5,7 @@ app-admin/keepassxc 2.7.5: KeePassXC - KeePass Cross-platform Community Edition 
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.0.1383: Hexdump utility from vim
-games-arcade/osu-lazer 2023.617.0 9999: rhythm is just a *click* away!
+games-arcade/osu-lazer 2023.621.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
@@ -29,4 +29,5 @@ www-client/torbrowser-launcher 0.3.6 9999: A program to download, update, and ru
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 2.1.7: Start an xorg server
+x11-libs/gtk+ 2.24.33-r3 3.24.38: Gimp ToolKit +
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
