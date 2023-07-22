@@ -1,6 +1,6 @@
 BDEPEND=>=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/pulseaudio ) xinerama? ( x11-libs/libXinerama ) doc? ( app-doc/doxygen ) ffmpeg? ( || ( dev-lang/nasm dev-lang/yasm ) )
+DEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) xinerama? ( x11-libs/libXinerama ) doc? ( app-doc/doxygen ) ffmpeg? ( || ( dev-lang/nasm dev-lang/yasm ) )
 DESCRIPTION=Advanced rhythm game, designed for both home and arcade use
 EAPI=8
 HOMEPAGE=https://www.stepmania.com/
@@ -8,9 +8,9 @@ INHERIT=cmake desktop
 IUSE=alsa cpu_flags_x86_sse2 crash-handler +default-songs doc ffmpeg gles2 +gtk jack lto +mp3 networking +ogg oss parport pulseaudio tty wav +xinerama
 KEYWORDS=~amd64
 LICENSE=MIT default-songs? ( CC-BY-NC-4.0 )
-RDEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/pulseaudio ) xinerama? ( x11-libs/libXinerama )
+RDEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) xinerama? ( x11-libs/libXinerama )
 REQUIRED_USE=|| ( alsa oss pulseaudio jack )
 SLOT=0
 SRC_URI=https://github.com/stepmania/stepmania/archive/v5.1.0-b2.tar.gz -> stepmania-5.1.0-b2.tar.gz
 _eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	ad475baa777c9978fa035216c8264a10	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	aa1d1fa7be37663d48162ac963b22692	desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=e62375c25961715198a0b82cd32ae006
+_md5_=6b5d59abf739c9bc34a8b92441cb9cca
