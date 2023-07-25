@@ -8,4 +8,4 @@ LICENSE=WTFPL-2
 RDEPEND=acct-group/power
 SLOT=0
 _eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0
-_md5_=3641985731c4aadcbfda7d632019a68b
+_md5_=d9099f389cb66a5cdeab010603bb0d15

@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qtwidgets:5= x11-libs/gtk+:2 x11-libs/libX11 x11-libs/pango
 SLOT=5
 _eclasses_=git-r3	97f7f638070d17e4c2b6542589bb4575	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81
-_md5_=dca84029cbfccd26205c0ebef6a49e75
+_md5_=887330e48e69e78b008e5d13fc0608f9
