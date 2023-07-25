@@ -9,7 +9,7 @@ games-arcade/osu-lazer 2023.717.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
-media-fonts/hanazono-font 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
+media-fonts/hanazono 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
 media-fonts/unifont 15.0.06: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/xcolor 0.5.1: Lightweight color picker for X11
