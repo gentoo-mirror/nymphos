@@ -1,4 +1,4 @@
-# Copyright 2023 Gentoo Authors
+# Copyright 2023 NymphOS Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -33,15 +33,12 @@ RDEPEND="
 	yubikey? (
 		dev-libs/libusb:1
 		sys-apps/pcsc-lite
-	)
-"
+	)"
 DEPEND="${RDEPEND}
-	test? ( dev-qt/qttest:5 )
-"
+	test? ( dev-qt/qttest:5 )"
 BDEPEND="
 	dev-qt/linguist-tools:5
-	doc? ( dev-ruby/asciidoctor )
-"
+	doc? ( dev-ruby/asciidoctor )"
 
 PATCHES=( "${FILESDIR}/${P}-cli-only.patch" )
 
