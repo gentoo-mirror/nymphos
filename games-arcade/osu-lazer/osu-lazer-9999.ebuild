@@ -30,7 +30,7 @@ PATCHES=( "${FILESDIR}/${P}-online.patch" )
 
 src_compile() {
 	local mydotnetargs=()
-	[[ "${PV}" = 9999 ]] && mydotnetargs+=(/property:Version="${PV}")
+	[[ "${PV}" = 9999 ]] || mydotnetargs+=(/property:Version="${PV}")
 	DOTNET_CLI_TELEMETRY_OPTOUT="1" dotnet publish osu.Desktop \
 		--framework net6.0 \
 		--configuration Release \
