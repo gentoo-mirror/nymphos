@@ -44,7 +44,7 @@ PATCHES=( "${FILESDIR}/${P}-cli-only.patch" )
 
 src_prepare() {
 	if [[ "${PV}" != 9999 ]] && [[ ! -f .version ]] ; then
-		echo "${PV}" >.version || die
+		printf '%s' "${PV}" >.version || die
 	fi
 
 	cmake_src_prepare
@@ -52,7 +52,7 @@ src_prepare() {
 
 src_configure() {
 	# https://github.com/keepassxreboot/keepassxc/issues/5801
-	filter-flags -flto*
+	filter-lto
 
 	local mycmakeargs=(
 		# Gentoo users enable ccache via e.g. FEATURES=ccache or
