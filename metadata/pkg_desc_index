@@ -4,7 +4,7 @@ app-admin/doas 9999: Run commands as super user or another user, alternative to 
 app-admin/keepassxc 2.7.6: KeePassXC - KeePass Cross-platform Community Edition - CLI Only
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/xxd 9.0.1383: Hexdump utility from vim
+dev-util/xxd 9.0.1832: Hexdump utility from vim
 games-arcade/osu-lazer 2023.815.0 9999: rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
@@ -13,7 +13,7 @@ media-fonts/hanazono 20170904: Hanazono font is a Japanese mincho font based on 
 media-fonts/unifont 15.0.06: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/xcolor 0.5.1: Lightweight color picker for X11
-media-sound/mpvc 1.4.0: An mpc-like cli tool for mpv
+media-sound/mpvc 1.4.1: An mpc-like cli tool for mpv
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/bootlogd 3.08 9999: bootlogd extracted from sysvinit
 sys-apps/mdev-conf 4.5 9999: Configuration and helper scripts for busybox mdev and mdevd
