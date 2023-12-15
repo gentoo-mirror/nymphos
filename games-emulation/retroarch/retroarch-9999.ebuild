@@ -18,7 +18,7 @@ fi
 
 LICENSE="GPL-3"
 SLOT="0"
-IUSE="alsa +cdrom cg cpu_flags_x86_sse2 dbus debug drm egl ffmpeg flac gles2 gles3 gles3_1 gles3_2 jack kms libass libcaca libusb +network openal +opengl +opengl_core osmesa parport pulseaudio qt5 sdl sdl2 sixel ssl systemd tinyalsa +truetype +udev v4l2 vulkan wayland X xrandr xinerama xv +zlib"
+IUSE="alsa +cdrom cg cpu_flags_x86_sse2 dbus drm egl ffmpeg flac gles2 gles3 gles3_1 gles3_2 jack kms libass libcaca libusb +network openal +opengl +opengl_core osmesa parport pulseaudio qt5 sdl sdl2 sixel ssl systemd tinyalsa +truetype +udev v4l2 vulkan wayland X xrandr xinerama xv +zlib"
 
 REQUIRED_USE="
 	|| ( alsa jack pulseaudio )
