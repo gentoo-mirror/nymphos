@@ -7,5 +7,5 @@ INHERIT=git-r3
 LICENSE=GPL-2 Apache-2.0 MIT BSD-1 CC0-1.0
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=4184b65445f719b5ea1e68a67ed1e946
