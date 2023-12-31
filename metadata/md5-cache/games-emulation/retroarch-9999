@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=configure prepare unpack
+DEFINED_PHASES=configure unpack
 DEPEND=alsa? ( media-libs/alsa-lib ) cg? ( media-gfx/nvidia-cg-toolkit ) drm? ( x11-libs/libdrm ) ffmpeg? ( media-video/ffmpeg:= ) flac? ( media-libs/flac ) jack? ( virtual/jack ) libass? ( media-libs/libass:= ) libcaca? ( media-libs/libcaca ) libusb? ( virtual/libusb:= ) openal? ( media-libs/openal ) opengl? ( media-libs/mesa[gles2?] ) osmesa? ( media-libs/mesa[osmesa] ) pulseaudio? ( media-sound/pulseaudio ) qt5? ( dev-qt/qtconcurrent:5 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 ) sdl? ( media-libs/libsdl ) sdl2? ( media-libs/libsdl2 ) sixel? ( media-libs/libsixel ) ssl? ( net-libs/mbedtls ) systemd? ( sys-apps/systemd ) truetype? ( media-libs/freetype:2= ) udev? ( virtual/udev ) v4l2? ( media-libs/libv4l:= ) vulkan? ( media-libs/vulkan-loader[X?,wayland?] ) wayland? ( dev-libs/wayland ) X? ( x11-libs/libX11 x11-libs/libXext x11-libs/libXxf86vm x11-libs/libxcb ) xrandr? ( x11-libs/libXrandr ) xinerama? ( x11-libs/libXinerama ) xv? ( x11-libs/libXv ) zlib? ( sys-libs/zlib:= ) virtual/pkgconfig vulkan? ( dev-util/vulkan-headers )
 DESCRIPTION=Reference frontend for libretro-based emulators
 EAPI=8
@@ -12,4 +12,4 @@ RDEPEND=alsa? ( media-libs/alsa-lib ) cg? ( media-gfx/nvidia-cg-toolkit ) drm? (
 REQUIRED_USE=|| ( alsa jack pulseaudio ) || ( opengl vulkan sdl sdl2 libcaca sixel ) || ( X wayland drm kms ) ?? ( gles2 cg ) ?? ( sdl sdl2 ) cg? ( opengl ) egl? ( opengl ) gles2? ( egl ) gles3? ( gles2 ) gles3_1? ( gles3 ) gles3_2? ( gles3_1 ) kms? ( drm egl ) libass? ( ffmpeg ) opengl_core? ( opengl ) osmesa? ( opengl ) ssl? ( network ) xinerama? ( X ) xrandr? ( X ) xv? ( X )
 SLOT=0
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	78cf3cc2d5572fddf5e5e10c70f7c81a	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=5c36f1e110846b6400f06fa46cb31f3a
+_md5_=28fa1dedae8b370e869082f1bff7824c
