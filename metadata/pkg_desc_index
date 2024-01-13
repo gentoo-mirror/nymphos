@@ -26,7 +26,7 @@ sys-fs/mdevd 0.1.6.3 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
-www-client/torbrowser-launcher 0.3.6 9999: A program to download, update, and run the Tor Browser Bundle
+www-client/torbrowser-launcher 0.3.7 9999: A program to download, update, and run the Tor Browser Bundle
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.2 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
