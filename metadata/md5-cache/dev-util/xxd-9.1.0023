@@ -9,4 +9,4 @@ RDEPEND=!app-editors/vim-core
 SLOT=0
 SRC_URI=https://raw.githubusercontent.com/vim/vim/v9.1.0023/src/xxd/xxd.c -> xxd-9.1.0023.c https://raw.githubusercontent.com/vim/vim/v9.1.0023/src/xxd/Makefile -> xxd-9.1.0023.mk https://raw.githubusercontent.com/vim/vim/v9.1.0023/runtime/doc/xxd.1 -> xxd-9.1.0023.1
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0
-_md5_=17288c3261329686c7b4dc386a8dea78
+_md5_=15c716a930215b455901e3b6144414d1
