@@ -30,5 +30,5 @@ www-client/torbrowser-launcher 0.3.7 9999: A program to download, update, and ru
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
 www-plugins/legacyfox 3.2 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
-x11-libs/gtk+ 2.24.33-r3 3.24.40: Gimp ToolKit +
+x11-libs/gtk+ 2.24.33-r3 3.24.41: Gimp ToolKit +
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
