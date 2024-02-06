@@ -1,14 +1,14 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install unpack
-DEPEND=virtual/dotnet-sdk:6.0
-DESCRIPTION=rhythm is just a *click* away!
+DEPEND=virtual/dotnet-sdk:8.0
+DESCRIPTION=A free-to-win rhythm game. Rhythm is just a *click* away!
 EAPI=8
 HOMEPAGE=https://osu.ppy.sh/
 INHERIT=git-r3
 LICENSE=MIT CC-BY-NC-4.0
 PROPERTIES=live
-RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/dotnet-sdk:6.0 virtual/opengl
+RDEPEND=virtual/dotnet-sdk:8.0 media-libs/libsdl2 media-video/ffmpeg virtual/opengl
 RESTRICT=network-sandbox
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=de4dffec25aef9d2adba26725e7f5ba7
+_md5_=946e6cc1b1da57502917d4b9b219ce72
