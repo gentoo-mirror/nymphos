@@ -1,8 +1,10 @@
-From 133f8de8d0ab5d45b659a053932f977a00005fdc Mon Sep 17 00:00:00 2001
+From 7bf60ee9ce5e7237728e96b0cdd3df78599fb40e Mon Sep 17 00:00:00 2001
 From: neeshy <neeshy@tfwno.gf>
 Date: Fri, 9 Feb 2024 16:38:37 -0500
 Subject: [PATCH 3/4] su: check $SHELL for validity
 
+If $SHELL isn't defined in the environment, the call to execve will
+fail. Fallback to the user's login shell if $SHELL is invalid.
 ---
  su.c | 6 ++++--
  1 file changed, 4 insertions(+), 2 deletions(-)
