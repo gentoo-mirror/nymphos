@@ -1,4 +1,4 @@
-From 488291678e4694bded028f02de7efc540faf067e Mon Sep 17 00:00:00 2001
+From a28669643d645d923d260bd282e4051e7e2ea2da Mon Sep 17 00:00:00 2001
 From: neeshy <neeshy@tfwno.gf>
 Date: Wed, 24 May 2023 20:41:43 -0400
 Subject: [PATCH 4/4] su: don't set $PATH
