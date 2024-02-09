@@ -1,4 +1,4 @@
-From e4e84444d74bf025ad5f20ad4b50eef8abb3214e Mon Sep 17 00:00:00 2001
+From ae5d311c7fc7f152781b4686022fa9d10fcae9af Mon Sep 17 00:00:00 2001
 From: neeshy <neeshy@tfwno.gf>
 Date: Wed, 24 May 2023 20:30:56 -0400
 Subject: [PATCH 2/4] su: fix setting argv0
@@ -44,5 +44,5 @@ index bc7a94f..812aa43 100644
  	if (strcmp(pw->pw_name, "root") == 0)
  		setenv("PATH", ENV_SUPATH, 1);
 -- 
-2.40.1
+2.43.0
 
