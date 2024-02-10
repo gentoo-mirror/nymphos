@@ -1,10 +1,10 @@
 acct-group/power 0: System group: power
-app-accessibility/at-spi2-core 2.51.0: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-core 2.51.90: D-Bus accessibility specifications and registration daemon
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-admin/keepassxc 2.7.6: KeePassXC - KeePass Cross-platform Community Edition - CLI Only
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/xxd 9.1.0052: Hexdump utility from vim
+dev-util/xxd 9.1.0094: Hexdump utility from vim
 games-arcade/osu-lazer 2024.131.0 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
 games-emulation/retroarch 1.17.0 9999: Reference frontend for libretro-based emulators
