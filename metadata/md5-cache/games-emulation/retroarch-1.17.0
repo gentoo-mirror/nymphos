@@ -11,5 +11,5 @@ RDEPEND=alsa? ( media-libs/alsa-lib ) cg? ( media-gfx/nvidia-cg-toolkit ) drm? (
 REQUIRED_USE=|| ( alsa jack pulseaudio ) || ( opengl vulkan sdl sdl2 libcaca sixel ) || ( X wayland drm kms ) ?? ( gles2 cg ) ?? ( sdl sdl2 ) cg? ( opengl ) egl? ( opengl ) gles2? ( egl ) gles3? ( gles2 ) gles3_1? ( gles3 ) gles3_2? ( gles3_1 ) kms? ( drm egl ) libass? ( ffmpeg ) opengl_core? ( opengl ) osmesa? ( opengl ) ssl? ( network ) xinerama? ( X ) xrandr? ( X ) xv? ( X )
 SLOT=0
 SRC_URI=https://github.com/libretro/RetroArch/archive/v1.17.0.tar.gz -> retroarch-1.17.0.tar.gz
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b2b07efa51009704f88173b2c7feab47
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425
 _md5_=5c3ffd2e33d65c4dfde79f7d8aaf847a
