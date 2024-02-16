@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install
+DEPEND=app-arch/bzip2 media-libs/freetype media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg
+DESCRIPTION=A Free & Open Source implementation of the NScripter novel game engine
+EAPI=8
+HOMEPAGE=https://kaisernet.org/onscripter/
+KEYWORDS=amd64
+LICENSE=GPL-2
+RDEPEND=app-arch/bzip2 media-libs/freetype media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg
+SLOT=0
+SRC_URI=https://kaisernet.org/onscripter/releases/onscripter-en-20110930-src.tar.bz2
+_md5_=31399102ad65c8d7f1cc3463d77cf206

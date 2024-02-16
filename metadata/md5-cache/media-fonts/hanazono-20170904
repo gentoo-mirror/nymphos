@@ -1,0 +1,13 @@
+BDEPEND=app-arch/unzip X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup
+DESCRIPTION=Hanazono font is a Japanese mincho font based on GlyphWiki
+EAPI=8
+HOMEPAGE=https://osdn.net/projects/hanazono-font
+INHERIT=font
+IUSE=X
+KEYWORDS=amd64
+LICENSE=OFL-1.1 hanazono-font
+SLOT=0
+SRC_URI=https://osdn.net/projects/hanazono-font/downloads/68253/hanazono-20170904.zip
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=d4d89d292cb994b02645bb6f7dae1f9a

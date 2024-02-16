@@ -1,0 +1,33 @@
+acct-group/power 0: System group: power
+app-accessibility/at-spi2-core 2.51.90: D-Bus accessibility specifications and registration daemon
+app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
+app-admin/keepassxc 2.7.6: KeePassXC - KeePass Cross-platform Community Edition - CLI Only
+app-misc/htmlq 0.4.0: Like jq, but for HTML
+dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
+dev-util/xxd 9.1.0094: Hexdump utility from vim
+games-arcade/osu-lazer 2024.131.0 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
+games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
+games-emulation/retroarch 1.17.0 9999: Reference frontend for libretro-based emulators
+games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
+games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
+media-fonts/hanazono 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
+media-fonts/unifont 15.1.04: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
+media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
+media-gfx/xcolor 0.5.1: Lightweight color picker for X11
+media-sound/mpvc 1.4.2: An mpc-like CLI tool for mpv
+sys-apps/ata-id 1: Reads product/serial number from ATA drives
+sys-apps/bootlogd 3.08 9999: bootlogd extracted from sysvinit
+sys-apps/mdev-conf 4.6 9999: Configuration and helper scripts for busybox mdev and mdevd
+sys-apps/runit-rc 9999: Runit init scripts
+sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
+sys-apps/su 9999: su from ubase
+sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
+sys-fs/mdevd 0.1.6.3 9999: A mdev-compatible Linux hotplug manager daemon
+sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
+sys-power/mem-suspend 1: The simplest script for suspending to memory
+sys-process/runit 2.1.2: A UNIX init scheme with service supervision
+www-plugins/flash-player 32.0.0.465: Adobe Flash Player
+www-plugins/legacyfox 3.2 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
+x11-apps/sx 3.0: Start an xorg server
+x11-libs/gtk+ 2.24.33-r3 3.24.41: Gimp ToolKit +
+x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.

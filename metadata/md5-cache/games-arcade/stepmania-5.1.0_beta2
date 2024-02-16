@@ -1,0 +1,16 @@
+BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) xinerama? ( x11-libs/libXinerama ) doc? ( app-doc/doxygen )
+DESCRIPTION=Advanced rhythm game, designed for both home and arcade use
+EAPI=8
+HOMEPAGE=https://www.stepmania.com/
+INHERIT=cmake desktop
+IUSE=alsa cpu_flags_x86_sse2 crash-handler +default-songs doc gles2 +gtk jack lights lto +mp3 networking +ogg oss pulseaudio wav +xinerama
+KEYWORDS=~amd64
+LICENSE=MIT default-songs? ( CC-BY-NC-4.0 )
+RDEPEND=app-arch/bzip2 dev-libs/libpcre media-libs/glew:= media-libs/libjpeg-turbo media-libs/libva media-libs/mesa[gles2?] sys-libs/zlib x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXext x11-libs/libXrandr alsa? ( media-libs/alsa-lib ) gtk? ( x11-libs/gtk+:2 ) jack? ( media-sound/jack-audio-connection-kit ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) xinerama? ( x11-libs/libXinerama )
+REQUIRED_USE=|| ( alsa oss pulseaudio jack )
+SLOT=0
+SRC_URI=https://github.com/stepmania/stepmania/archive/v5.1.0-b2.tar.gz -> stepmania-5.1.0-b2.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	c7c9a62d6232cac66d4ea32d575c3e7c	desktop	021728fdc1b03b36357dbc89489e0f0d
+_md5_=af7015383b4d96b5f44b4bd6b7794937
