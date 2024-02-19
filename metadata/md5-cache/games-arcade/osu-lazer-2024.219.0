@@ -1,14 +1,12 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install unpack
+DEFINED_PHASES=compile install
 DEPEND=virtual/dotnet-sdk:8.0
 DESCRIPTION=A free-to-win rhythm game. Rhythm is just a *click* away!
 EAPI=8
 HOMEPAGE=https://osu.ppy.sh/
-INHERIT=git-r3
+KEYWORDS=amd64
 LICENSE=MIT CC-BY-NC-4.0
-PROPERTIES=live
 RDEPEND=virtual/dotnet-sdk:8.0 media-libs/libsdl2 media-video/ffmpeg virtual/opengl
 RESTRICT=network-sandbox
 SLOT=0
-_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
+SRC_URI=https://github.com/ppy/osu/archive/2024.219.0.tar.gz -> osu-lazer-2024.219.0.tar.gz
 _md5_=cb93b8b310a02a682736b3530bd681b9
