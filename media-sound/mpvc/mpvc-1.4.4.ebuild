@@ -97,7 +97,7 @@ src_install() {
 	cargo_src_install
 	dobin examples/mpvc-fzf
 
-	newbashcomp "${S}/etc/mpvc.bash" mpvc
-	newzshcomp "${S}/etc/mpvc.zsh" _mpvc
-	dofishcomp "${S}/etc/mpvc.fish"
+	newbashcomp "${S}/etc/${PN}.bash" "${PN}"
+	newzshcomp "${S}/etc/${PN}.zsh" "_${PN}"
+	dofishcomp "${S}/etc/${PN}.fish"
 }
