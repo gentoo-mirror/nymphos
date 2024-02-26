@@ -2,6 +2,7 @@ acct-group/power 0: System group: power
 app-accessibility/at-spi2-core 2.51.90: D-Bus accessibility specifications and registration daemon
 app-admin/doas 9999: Run commands as super user or another user, alternative to sudo from OpenBSD
 app-admin/keepassxc 2.7.6: KeePassXC - KeePass Cross-platform Community Edition - CLI Only
+app-crypt/sops 3.8.1 9999: Simple and flexible tool for managing secrets
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.1.0094: Hexdump utility from vim
