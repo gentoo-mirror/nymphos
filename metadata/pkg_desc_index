@@ -28,7 +28,7 @@ sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
 sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.1.2: A UNIX init scheme with service supervision
 www-plugins/flash-player 32.0.0.465: Adobe Flash Player
-www-plugins/legacyfox 3.2 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
+www-plugins/legacyfox 3.3 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
 x11-libs/gtk+ 2.24.33-r3 3.24.41: Gimp ToolKit +
 x11-themes/numix-frost-theme-bin 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
