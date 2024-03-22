@@ -6,7 +6,7 @@ dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.1.0094: Hexdump utility from vim
 games-arcade/osu-lazer 2024.312.1 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
-games-emulation/retroarch 1.17.0 9999: Reference frontend for libretro-based emulators
+games-emulation/retroarch 1.18.0 9999: Reference frontend for libretro-based emulators
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono 20170904: Hanazono font is a Japanese mincho font based on GlyphWiki
