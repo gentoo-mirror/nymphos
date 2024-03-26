@@ -5,5 +5,5 @@ HOMEPAGE=https://git.gir.st/LegacyFox.git
 KEYWORDS=amd64
 LICENSE=MPL-2.0
 SLOT=0
-SRC_URI=https://git.gir.st/LegacyFox.git/snapshot/v3.3.tar.gz -> LegacyFox-v3.3-25664f0.tar.gz
-_md5_=8e40aed8ec8c3ea88ad09cf2ebfd1d7d
+SRC_URI=https://git.gir.st/LegacyFox.git/snapshot/v4.0.tar.gz -> LegacyFox-v4.0-8841335.tar.gz
+_md5_=8f1da5ceec13a49c2f2a030baabbc62d
