@@ -11,4 +11,4 @@ RDEPEND=virtual/dotnet-sdk:8.0 media-libs/libsdl2 media-video/ffmpeg virtual/ope
 RESTRICT=network-sandbox
 SLOT=0
 _eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
-_md5_=cb93b8b310a02a682736b3530bd681b9
+_md5_=55a375611177bcbc18a07cebef3d99ae
