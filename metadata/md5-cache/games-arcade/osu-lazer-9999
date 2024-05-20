@@ -11,4 +11,4 @@ RDEPEND=media-libs/libsdl2 media-video/ffmpeg virtual/opengl virtual/dotnet-sdk:
 RESTRICT=strip
 SLOT=0
 _eclasses_=edo	367e103a74bf77e6a8da7894d999fa3c	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	nuget	e90611a22e7a711a49d37cb365b878e8	dotnet-pkg-base	3e91bc4d3bc423a7b9dc30a94279901c	dotnet-pkg	9f041be16373f3b3c2ad1ae7a7559960	git-r3	fbb2889c81f3a05910c1524db69425c1
-_md5_=b1ed34f9653f6aa9baf6d74044778c82
+_md5_=c7fbddd5e074a5e4381806111d8d4d9d
