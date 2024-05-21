@@ -6,7 +6,7 @@ dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.1.0404: Hexdump utility from vim
 games-arcade/osu-lazer 2024.519.1 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/osu-lazer-bin 2024.519.1: A free-to-win rhythm game. Rhythm is just a *click* away!
-games-arcade/stepmania 5.1.0_beta2: Advanced rhythm game, designed for both home and arcade use
+games-arcade/stepmania 5.1.0_beta2_p20221114: Advanced rhythm game. Designed for both home and arcade use.
 games-emulation/retroarch 1.18.0 9999: Reference frontend for libretro-based emulators
 games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
@@ -17,7 +17,7 @@ media-gfx/xcolor 0.5.1: Lightweight color picker for X11
 media-sound/mpvc 1.4.4: An mpc-like CLI tool for mpv
 sci-calculators/fend 1.4.8: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
-sys-apps/mdev-conf 4.6 9999: Configuration and helper scripts for busybox mdev and mdevd
+sys-apps/mdev-conf 4.7 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-apps/su 9999: su from ubase
