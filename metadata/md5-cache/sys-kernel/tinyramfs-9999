@@ -1,6 +1,5 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=app-text/scdoc >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install unpack
-DEPEND=app-text/scdoc
 DESCRIPTION=Tiny initramfs written in POSIX shell
 EAPI=8
 HOMEPAGE=https://github.com/neeshy/tinyramfs
@@ -10,4 +9,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/busybox
 SLOT=0
 _eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
-_md5_=b20e31a011efe89914944f29032a4b61
+_md5_=5ea2fd0adbc6f4d91e104e33173c3bd3
