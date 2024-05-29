@@ -8,7 +8,7 @@ games-arcade/osu-lazer 2024.521.2 9999: A free-to-win rhythm game. Rhythm is jus
 games-arcade/osu-lazer-bin 2024.521.2: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2_p20221114: Advanced rhythm game. Designed for both home and arcade use.
 games-emulation/retroarch 1.18.0 9999: Reference frontend for libretro-based emulators
-games-engines/onscripter-en 20110930: A Free & Open Source implementation of the NScripter novel game engine
+games-engines/onscripter-en 20230628 99999999: An enhanced open-source implementation of the NScripter visual novel game engine
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono 20170904: A Japanese Mincho font based on GlyphWiki
 media-fonts/unifont 15.1.05: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
