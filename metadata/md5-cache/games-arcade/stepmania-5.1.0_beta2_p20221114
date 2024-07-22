@@ -1,10 +1,11 @@
 BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
-DEFINED_PHASES=compile configure install prepare test
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
 DEPEND=dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/glew:= media-libs/glu media-libs/libjpeg-turbo media-libs/libpng media-libs/mesa[opengl] sys-libs/zlib virtual/libudev x11-libs/libX11 x11-libs/libXext x11-libs/libXtst alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:3 ) jack? ( virtual/jack ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) sdl? ( media-libs/libsdl2 ) xinerama? ( x11-libs/libXinerama ) xrandr? ( x11-libs/libXrandr ) ffmpeg? ( || ( dev-lang/nasm dev-lang/yasm ) )
 DESCRIPTION=Advanced rhythm game. Designed for both home and arcade use.
 EAPI=8
 HOMEPAGE=https://www.stepmania.com/
-INHERIT=cmake desktop wrapper
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=cmake desktop wrapper xdg
 IUSE=alsa cpu_flags_x86_sse2 crash-handler ffmpeg gles2 +gtk jack lights lto +mp3 network +ogg oss pulseaudio sdl wav xinerama xrandr
 KEYWORDS=~amd64
 LICENSE=MIT CC-BY-NC-4.0
@@ -12,5 +13,5 @@ RDEPEND=dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/gle
 REQUIRED_USE=|| ( alsa oss pulseaudio jack )
 SLOT=0
 SRC_URI=https://github.com/stepmania/stepmania/archive/d55acb1ba26f1c5b5e3048d6d6c0bd116625216f.tar.gz -> stepmania-d55acb1ba26f1c5b5e3048d6d6c0bd116625216f.tar.gz https://github.com/stepmania/stepmania/commit/3fef5ef60b7674d6431f4e1e4ba8c69b0c21c023.patch -> stepmania-ffmpeg_build_fix.patch
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	258a4691fd43b8cd5814cb1acbb3c7df	desktop	021728fdc1b03b36357dbc89489e0f0d	wrapper	4a1902f969e5718126434fc35f3a0d9c
-_md5_=020be2c493550431ac35b6587bc5c68f
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	258a4691fd43b8cd5814cb1acbb3c7df	desktop	021728fdc1b03b36357dbc89489e0f0d	wrapper	4a1902f969e5718126434fc35f3a0d9c	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_md5_=defc0e6a4039a60a9ec4f7620e66af4c
