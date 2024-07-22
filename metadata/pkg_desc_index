@@ -20,6 +20,7 @@ sci-calculators/fend 1.5.0: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/mdev-conf 4.7 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
+sys-apps/sad 0.4.31: Space Age seD
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-apps/su 9999: su from ubase
 sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev

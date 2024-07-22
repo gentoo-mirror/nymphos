@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/skalibs-2.14.2.0:=
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=37d46b97b9a49849fe8bbb67a76f66d7
+_md5_=c4355e9e4d35448155e49c86f06adca8

@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=app-arch/bzip2 media-libs/freetype media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg x11-libs/libX11
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=5d1c7d9c4affd05b5dd76082be49cd8c
+_md5_=204b43d9d22a00bc337f802c2c990f0b
