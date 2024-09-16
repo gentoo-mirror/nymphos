@@ -3,7 +3,7 @@ app-accessibility/at-spi2-core 2.53.1: D-Bus accessibility specifications and re
 app-crypt/sops 3.9.0 9999: Simple and flexible tool for managing secrets
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
-dev-util/xxd 9.1.0623: Hexdump utility from vim
+dev-util/xxd 9.1.0732: Hexdump utility from vim
 games-arcade/osu-lazer 2024.906.2 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/osu-lazer-bin 2024.906.2: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2_p20221114: Advanced rhythm game. Designed for both home and arcade use.
