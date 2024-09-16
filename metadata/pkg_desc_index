@@ -16,7 +16,7 @@ media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/xcolor 0.5.1: Lightweight color picker for X11
 media-sound/mpvc 1.4.7: An mpc-like CLI tool for mpv
 net-voip/mumble 1.5.634 9999: Mumble is an open source, low-latency, high quality voice chat software
-sci-calculators/fend 1.5.1: Arbitrary-precision unit-aware calculator
+sci-calculators/fend 1.5.2: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/mdev-conf 4.7 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
