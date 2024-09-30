@@ -1,6 +1,6 @@
 BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
-DEPEND=dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/glew:= media-libs/glu media-libs/libjpeg-turbo media-libs/libpng media-libs/mesa[opengl] sys-libs/zlib virtual/libudev x11-libs/libX11 x11-libs/libXext x11-libs/libXtst alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:3 ) jack? ( virtual/jack ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) sdl? ( media-libs/libsdl2 ) xinerama? ( x11-libs/libXinerama ) xrandr? ( x11-libs/libXrandr ) ffmpeg? ( || ( dev-lang/nasm dev-lang/yasm ) )
+DEPEND=dev-libs/jsoncpp:= dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/glew:= media-libs/glu media-libs/libjpeg-turbo media-libs/libpng media-libs/mesa[opengl] sys-libs/zlib virtual/libudev x11-libs/libX11 x11-libs/libXext x11-libs/libXtst alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:3 ) jack? ( virtual/jack ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) sdl? ( media-libs/libsdl2 ) xinerama? ( x11-libs/libXinerama ) xrandr? ( x11-libs/libXrandr ) ffmpeg? ( || ( dev-lang/nasm dev-lang/yasm ) )
 DESCRIPTION=Advanced rhythm game. Designed for both home and arcade use.
 EAPI=8
 HOMEPAGE=https://www.stepmania.com/
@@ -9,9 +9,9 @@ INHERIT=cmake desktop wrapper xdg
 IUSE=alsa cpu_flags_x86_sse2 crash-handler ffmpeg gles2 +gtk jack lights lto +mp3 network +ogg oss pulseaudio sdl wav xinerama xrandr
 KEYWORDS=~amd64
 LICENSE=MIT CC-BY-NC-4.0
-RDEPEND=dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/glew:= media-libs/glu media-libs/libjpeg-turbo media-libs/libpng media-libs/mesa[opengl] sys-libs/zlib virtual/libudev x11-libs/libX11 x11-libs/libXext x11-libs/libXtst alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:3 ) jack? ( virtual/jack ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) sdl? ( media-libs/libsdl2 ) xinerama? ( x11-libs/libXinerama ) xrandr? ( x11-libs/libXrandr )
+RDEPEND=dev-libs/jsoncpp:= dev-libs/libpcre dev-libs/libtomcrypt dev-libs/libtommath media-libs/glew:= media-libs/glu media-libs/libjpeg-turbo media-libs/libpng media-libs/mesa[opengl] sys-libs/zlib virtual/libudev x11-libs/libX11 x11-libs/libXext x11-libs/libXtst alsa? ( media-libs/alsa-lib ) ffmpeg? ( media-video/ffmpeg ) gtk? ( x11-libs/gtk+:3 ) jack? ( virtual/jack ) mp3? ( media-libs/libmad ) ogg? ( media-libs/libogg media-libs/libvorbis ) pulseaudio? ( media-sound/libpulse ) sdl? ( media-libs/libsdl2 ) xinerama? ( x11-libs/libXinerama ) xrandr? ( x11-libs/libXrandr )
 REQUIRED_USE=|| ( alsa oss pulseaudio jack )
 SLOT=0
 SRC_URI=https://github.com/stepmania/stepmania/archive/d55acb1ba26f1c5b5e3048d6d6c0bd116625216f.tar.gz -> stepmania-d55acb1ba26f1c5b5e3048d6d6c0bd116625216f.tar.gz https://github.com/stepmania/stepmania/commit/3fef5ef60b7674d6431f4e1e4ba8c69b0c21c023.patch -> stepmania-ffmpeg_build_fix.patch
 _eclasses_=toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	flag-o-matic	fa33e3696fe4689dda7e9affe92e2c94	multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	cmake	10a50dfaf728b802fcfd37f8d0da9056	desktop	56973babb9c5f19cab0eeb53ece644c6	wrapper	8814ba474de61a773949805b4d85007d	xdg	854eae304447322625df5991e20ed18f
-_md5_=defc0e6a4039a60a9ec4f7620e66af4c
+_md5_=0b795e3bd7ad0254c531d58c42b2746c
