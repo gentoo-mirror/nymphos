@@ -28,7 +28,7 @@ sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.6.4 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
 sys-power/mem-suspend 1: The simplest script for suspending to memory
-sys-process/runit 2.1.2: A UNIX init scheme with service supervision
+sys-process/runit 2.2.0: A UNIX init scheme with service supervision
 www-plugins/legacyfox 4.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
 x11-libs/gtk+ 2.24.33-r3 3.24.43: Gimp ToolKit +

@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure install prepare
 DESCRIPTION=A UNIX init scheme with service supervision
 EAPI=8
-HOMEPAGE=http://smarden.org/runit/
+HOMEPAGE=https://smarden.org/runit/
 INHERIT=flag-o-matic toolchain-funcs
 IUSE=static
 KEYWORDS=~amd64
 LICENSE=BSD
 SLOT=0
-SRC_URI=http://smarden.org/runit/runit-2.1.2.tar.gz
+SRC_URI=https://smarden.org/runit/runit-2.2.0.tar.gz
 _eclasses_=toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	flag-o-matic	fa33e3696fe4689dda7e9affe92e2c94
-_md5_=0c891d906d1c883a4baffa9346275822
+_md5_=a3c0ddf2759b540886ee069d7c6b4032
