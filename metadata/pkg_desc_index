@@ -1,6 +1,6 @@
 acct-group/power 0: System group: power
 app-accessibility/at-spi2-core 2.54.0: D-Bus accessibility specifications and registration daemon
-app-crypt/sops 3.9.0 9999: Simple and flexible tool for managing secrets
+app-crypt/sops 3.9.1 9999: Simple and flexible tool for managing secrets
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/scc 3.4.0 9999: A very fast accurate code counter
