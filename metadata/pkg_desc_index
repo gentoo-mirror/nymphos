@@ -4,7 +4,6 @@ app-crypt/sops 3.9.2 9999: Simple and flexible tool for managing secrets
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 dev-qt/qtstyleplugins 9999: Additional style plugins for Qt5
 dev-util/xxd 9.1.0912: Hexdump utility from vim
-games-arcade/osu-lazer 2024.1208.0 9999: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/osu-lazer-bin 2024.1208.0: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-arcade/stepmania 5.1.0_beta2_p20221114: Advanced rhythm game. Designed for both home and arcade use.
 games-emulation/retroarch 1.19.1 9999: Reference frontend for libretro-based emulators
@@ -18,7 +17,6 @@ media-sound/mpvc 1.4.7: An mpc-like CLI tool for mpv
 net-voip/mumble 1.5.634 9999: Mumble is an open source, low-latency, high quality voice chat software
 sci-calculators/fend 1.5.5: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
-sys-apps/mdev-conf 4.7 9999: Configuration and helper scripts for busybox mdev and mdevd
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/sad 0.4.31: Space Age seD
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
@@ -26,7 +24,6 @@ sys-apps/su 9999: su from ubase
 sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.6.5 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
-sys-power/mem-suspend 1: The simplest script for suspending to memory
 sys-process/runit 2.2.0: A UNIX init scheme with service supervision
 www-plugins/legacyfox 4.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
