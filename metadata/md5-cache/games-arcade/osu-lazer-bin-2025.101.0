@@ -8,4 +8,4 @@ RDEPEND=sys-fs/fuse:0 sys-libs/zlib virtual/opengl
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/ppy/osu/releases/download/2025.101.0/osu.AppImage -> osu-2025.101.0.AppImage
-_md5_=e93e280f06ce510808cda428e99a40c2
+_md5_=0518aca71ca308537549e967a5caa53a

@@ -7,4 +7,4 @@ LICENSE=MIT
 RDEPEND=x11-base/xorg-server x11-apps/xauth
 SLOT=0
 SRC_URI=https://github.com/Earnestly/sx/archive/3.0.tar.gz -> sx-3.0.tar.gz
-_md5_=5f932f2853d39fd3226f8bdeea06e9e1
+_md5_=4bbf3795d336044d0be5e00f41667e22

@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/seedrng sys-apps/util-linux[tty-helpers] sys-process/runit !sys-apps/sysvinit
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=3efe7aac09657e09c6a3ca979c4c6a03
+_md5_=a70b44f3456f459739da1f6486194778

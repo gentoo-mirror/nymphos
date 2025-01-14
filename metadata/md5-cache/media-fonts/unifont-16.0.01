@@ -11,4 +11,4 @@ LICENSE=OFL-1.1 GPL-2+
 SLOT=0
 SRC_URI=mirror://gnu/unifont/unifont-16.0.01/unifont-16.0.01.tar.gz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
-_md5_=475164ebc6731a2b5b2b0f109020bee8
+_md5_=67a31bf709032d63e5a96c7bdb8217ff
