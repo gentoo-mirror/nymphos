@@ -1,6 +1,7 @@
 app-accessibility/at-spi2-core 2.54.1: D-Bus accessibility specifications and registration daemon
 app-crypt/sops 3.9.3 9999: Simple and flexible tool for managing secrets
 app-misc/htmlq 0.4.0: Like jq, but for HTML
+dev-qt/qt6gtk2 0.3: GTK+2.0 integration plugins for Qt6
 dev-qt/qtstyleplugins 5.0.0_p20170311: Additional style plugins for Qt5
 dev-util/xxd 9.1.0912: Hexdump utility from vim
 games-arcade/osu-lazer-bin 2025.118.3: A free-to-win rhythm game. Rhythm is just a *click* away!
