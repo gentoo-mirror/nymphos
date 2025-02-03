@@ -19,7 +19,7 @@ net-voip/mumble 1.5.735 9999: Mumble is an open source, low-latency, high qualit
 sci-calculators/fend 1.5.5: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/runit-rc 9999: Runit init scripts
-sys-apps/sad 0.4.31: Space Age seD
+sys-apps/sad 0.4.32: Space Age seD
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-apps/su 9999: su from ubase
 sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
