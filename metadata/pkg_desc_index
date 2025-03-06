@@ -28,5 +28,5 @@ sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
 sys-process/runit 2.2.0: A UNIX init scheme with service supervision
 www-plugins/legacyfox 4.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
-x11-libs/gtk+ 2.24.33-r3 3.24.48: Gimp ToolKit +
+x11-libs/gtk+ 2.24.33-r3 3.24.49: Gimp ToolKit +
 x11-themes/numix-gtk-theme-frost 3.6.6: A modern flat theme that supports Gnome, Unity, XFCE and Openbox.
