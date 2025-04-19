@@ -10,7 +10,7 @@ games-engines/onscripter-en 20230628 99999999: An enhanced open-source implement
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 media-fonts/hanazono 20170904: A Japanese Mincho font based on GlyphWiki
 media-fonts/symbola 14.00: Unicode font for Latin, IPA Extensions, Greek, Cyrillic and many Symbol Blocks
-media-fonts/unifont 16.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
+media-fonts/unifont 16.0.03: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/xcolor 0.5.1: Lightweight color picker for X11
 media-sound/mpvc 1.4.7: An mpc-like CLI tool for mpv
