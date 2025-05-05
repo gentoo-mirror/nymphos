@@ -22,7 +22,7 @@ sys-apps/sad 0.4.32: Space Age seD
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
 sys-apps/su 9999: su from ubase
 sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
-sys-fs/mdevd 0.1.6.5 9999: A mdev-compatible Linux hotplug manager daemon
+sys-fs/mdevd 0.1.7.0 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
 sys-process/runit 2.2.0: A UNIX init scheme with service supervision
 www-plugins/legacyfox 4.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
