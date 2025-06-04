@@ -1,7 +1,7 @@
 app-accessibility/at-spi2-core 2.56.2: D-Bus accessibility specifications and registration daemon
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 app-misc/lf 35 9999: Terminal file manager
-dev-qt/qt6gtk2 0.3: GTK+2.0 integration plugins for Qt6
+dev-qt/qt6gtk2 0.4: GTK+2.0 integration plugins for Qt6
 dev-qt/qtstyleplugins 5.0.0_p20170311: Additional style plugins for Qt5
 dev-util/xxd 9.1.1363: Hexdump utility from vim
 games-arcade/osu-lazer-bin 2025.424.0: A free-to-win rhythm game. Rhythm is just a *click* away!
