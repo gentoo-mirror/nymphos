@@ -35,7 +35,10 @@ RDEPEND="
 	xrandr? ( x11-libs/libXrandr )"
 DEPEND="${RDEPEND}"
 
-PATCHES=( "${FILESDIR}/${PN}-libjpeg-turbo-CMAKE_BUILD_TYPE_UC.patch" )
+PATCHES=(
+	"${FILESDIR}/${PN}-libjpeg-turbo-CMAKE_BUILD_TYPE_UC.patch"
+	"${FILESDIR}/${PN}-install-sm5-songs.patch"
+)
 
 src_configure() {
 	local mycmakeargs=(
@@ -62,6 +65,6 @@ src_install() {
 	cmake_src_install
 	make_wrapper "${PN}" "/opt/${PN}/${PN}"
 	domenu "${PN}.desktop"
-	doicon -s 48 Data/icon.png
-	doicon -s scalable Data/icon.svg
+	newicon -s 48 Data/icon.png "${PN}.png"
+	newicon -s scalable Data/logo.svg "${PN}.svg"
 }
