@@ -4,7 +4,7 @@ app-misc/lf 35 9999: Terminal file manager
 dev-qt/qt6gtk2 0.4: GTK+2.0 integration plugins for Qt6
 dev-qt/qtstyleplugins 5.0.0_p20170311: Additional style plugins for Qt5
 dev-util/xxd 9.1.1459: Hexdump utility from vim
-games-arcade/itgmania 1.0.2: A fork of StepMania 5.1, improved for the post-ITG community
+games-arcade/itgmania 1.1.0: A fork of StepMania 5.1, improved for the post-ITG community
 games-arcade/osu-lazer-bin 2025.607.0: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-emulation/retroarch 1.21.1 9999: Reference frontend for libretro-based emulators
 games-engines/onscripter-en 20230628 99999999: An enhanced open-source implementation of the NScripter visual novel game engine
