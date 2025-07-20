@@ -1,5 +1,5 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=configure install unpack
+DEFINED_PHASES=install unpack
 DEPEND=app-arch/bzip2:= media-libs/freetype:= media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg x11-libs/libX11
 DESCRIPTION=An enhanced open-source implementation of the NScripter visual novel game engine
 EAPI=8
@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=app-arch/bzip2:= media-libs/freetype:= media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg x11-libs/libX11
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=a93866c11560c6bb5bced3fb83fc7cfa
+_md5_=972ab72bc8a044aad136348a2ca6e859
