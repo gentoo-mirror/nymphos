@@ -19,6 +19,7 @@ media-sound/mpvc 1.4.8: An mpc-like CLI tool for mpv
 net-voip/mumble 1.5.735 9999: Mumble is an open source, low-latency, high quality voice chat software
 sci-calculators/fend 1.5.7: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
+sys-apps/nitro-rc 9999: nitro init scripts
 sys-apps/runit-rc 9999: Runit init scripts
 sys-apps/sad 0.4.32: Space Age seD
 sys-apps/seedrng 9999: Simple utility for seeding the Linux kernel RNG with seed files
@@ -26,6 +27,7 @@ sys-apps/su 9999: su from ubase
 sys-fs/libudev-zero 1.0.3 9999: Daemonless replacement for libudev
 sys-fs/mdevd 0.1.7.0 9999: A mdev-compatible Linux hotplug manager daemon
 sys-kernel/tinyramfs 9999: Tiny initramfs written in POSIX shell
+sys-process/nitro 0.2: Tiny but flexible init system and process supervisor
 sys-process/runit 2.2.0: A UNIX init scheme with service supervision
 www-plugins/legacyfox 5.0 9999: Legacy bootstrapped extensions for Firefox 65 and beyond
 x11-apps/sx 3.0: Start an xorg server
