@@ -7,5 +7,5 @@ LICENSE=MIT CC-BY-NC-4.0
 RDEPEND=sys-fs/fuse:0 sys-libs/zlib virtual/opengl
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/ppy/osu/releases/download/2025.816.0-lazer/osu.AppImage -> osu-2025.816.0.AppImage
+SRC_URI=https://github.com/ppy/osu/releases/download/2025.912.0-lazer/osu.AppImage -> osu-2025.912.0.AppImage
 _md5_=ccfb57d0a9abd2b05b9b5f222f3bbd67
