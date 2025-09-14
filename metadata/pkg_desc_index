@@ -1,7 +1,7 @@
-app-accessibility/at-spi2-core 2.57.2: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-core 2.58.0: D-Bus accessibility specifications and registration daemon
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 app-misc/lf 37 9999: Terminal file manager
-dev-qt/qt6gtk2 0.5: GTK+2.0 integration plugins for Qt6
+dev-qt/qt6gtk2 0.6: GTK+2.0 integration plugins for Qt6
 dev-qt/qtstyleplugins 5.0.0_p20170311: Additional style plugins for Qt5
 dev-util/xxd 9.1.1683: Hexdump utility from vim
 games-arcade/itgmania 1.1.0: A fork of StepMania 5.1, improved for the post-ITG community
