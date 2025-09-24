@@ -222,6 +222,8 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE="man"
 
+RDEPEND="dev-libs/openssl:="
+DEPEND="${RDEPEND}"
 BDEPEND="man? ( virtual/pandoc )"
 
 PATCHES=( "${FILESDIR}/${PN}-vi.patch" )
