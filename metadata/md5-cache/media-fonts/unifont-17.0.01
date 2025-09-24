@@ -1,6 +1,5 @@
-BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+BDEPEND=bold? ( media-gfx/mkbold-mkitalic x11-apps/bdftopcf ) X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
 DEFINED_PHASES=compile install postinst postrm setup
-DEPEND=bold? ( media-gfx/mkbold-mkitalic x11-apps/bdftopcf )
 DESCRIPTION=GNU Unifont - a Pan-Unicode X11 bitmap iso10646 font
 EAPI=8
 HOMEPAGE=https://unifoundry.com/
@@ -11,4 +10,4 @@ LICENSE=OFL-1.1 GPL-2+
 SLOT=0
 SRC_URI=mirror://gnu/unifont/unifont-17.0.01/unifont-17.0.01.tar.gz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
-_md5_=67a31bf709032d63e5a96c7bdb8217ff
+_md5_=ab40969b34798838969b1e29eb1b1a7d
