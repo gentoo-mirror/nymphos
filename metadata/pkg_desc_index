@@ -1,9 +1,11 @@
 app-accessibility/at-spi2-core 2.58.0: D-Bus accessibility specifications and registration daemon
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 app-misc/lf 38 9999: Terminal file manager
+app-misc/xee 0.1.6: Swiss Army knife for XML, XPath and XSLT
 dev-qt/qt6gtk2 0.6: GTK+2.0 integration plugins for Qt6
 dev-qt/qtstyleplugins 5.0.0_p20170311: Additional style plugins for Qt5
 dev-util/xxd 9.1.1683: Hexdump utility from vim
+dev-vcs/mergiraf 0.15.0: A syntax-aware merge driver for Git
 games-arcade/itgmania 1.1.0: A fork of StepMania 5.1, improved for the post-ITG community
 games-arcade/osu-lazer-bin 2025.912.0: A free-to-win rhythm game. Rhythm is just a *click* away!
 games-emulation/retroarch 1.21.1 9999: Reference frontend for libretro-based emulators
