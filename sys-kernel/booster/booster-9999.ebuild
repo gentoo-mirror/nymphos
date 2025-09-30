@@ -134,10 +134,10 @@ src_compile() {
 		ronn docs/manpage.md || die "ronn failed"
 	fi
 
-	cd generator
+	cd generator || die "cd failed"
 	ego build
 
-	cd ../init
+	cd ../init || die "cd failed"
 	ego build
 }
 
