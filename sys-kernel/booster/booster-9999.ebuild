@@ -130,7 +130,9 @@ PATCHES=(
 )
 
 src_compile() {
-	use man && ronn docs/manpage.md
+	if use man; then
+		ronn docs/manpage.md || die "ronn failed"
+	fi
 
 	cd generator
 	ego build
