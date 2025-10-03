@@ -18,7 +18,7 @@ media-fonts/unifont 17.0.01: GNU Unifont - a Pan-Unicode X11 bitmap iso10646 fon
 media-gfx/flash-player-projector 32.0.0.465: Adobe Flash Player Projector
 media-gfx/xcolor 0.5.1: Lightweight color picker for X11
 media-sound/mpvc 1.4.8: An mpc-like CLI tool for mpv
-net-voip/mumble 1.6.0_pre20250920 9999: Mumble is an open source, low-latency, high quality voice chat software
+net-voip/mumble 1.6.0_pre20250920-r1 9999: Mumble is an open source, low-latency, high quality voice chat software
 sci-calculators/fend 1.5.7: Arbitrary-precision unit-aware calculator
 sys-apps/ata-id 1: Reads product/serial number from ATA drives
 sys-apps/nitro-rc 9999: nitro init scripts
