@@ -1,4 +1,4 @@
-app-accessibility/at-spi2-core 2.58.0: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-core 2.58.1: D-Bus accessibility specifications and registration daemon
 app-misc/htmlq 0.4.0: Like jq, but for HTML
 app-misc/lf 38 9999: Terminal file manager
 app-misc/xee 0.1.6: Swiss Army knife for XML, XPath and XSLT
