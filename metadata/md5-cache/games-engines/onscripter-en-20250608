@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=app-arch/bzip2:= media-libs/freetype:2 media-libs/libsdl media-libs/sdl-image[jpeg,png] media-libs/sdl-mixer[vorbis] media-libs/sdl-ttf media-libs/smpeg x11-libs/libX11
 SLOT=0
 SRC_URI=https://github.com/Galladite27/ONScripter-EN/archive/2025-06-08.tar.gz -> ONScripter-EN-2025-06-08.tar.gz
-_md5_=620b814ae6cabfb45a10fc8f52608c95
+_md5_=c63567240562778c79e0ff40b56a49a2

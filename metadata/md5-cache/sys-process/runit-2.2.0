@@ -9,4 +9,4 @@ LICENSE=BSD
 SLOT=0
 SRC_URI=https://smarden.org/runit/runit-2.2.0.tar.gz
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672
-_md5_=c14fe86fd08acfe0fb57ec02c148a4fb
+_md5_=c05a129ff3edd7910bb0978e795488d9

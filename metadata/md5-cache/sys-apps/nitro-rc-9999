@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/seedrng sys-process/nitro sys-process/runit !sys-apps/sysvinit
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=8730e5ea8cad8e05d858bea23f11c576
+_md5_=0a313577eb6e93adf472b4b8eb68c1b7

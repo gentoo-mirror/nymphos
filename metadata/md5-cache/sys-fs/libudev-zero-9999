@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=!sys-apps/systemd !sys-apps/systemd-utils[udev] !virtual/udev
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=ea0e71f0fce0d331f2be1fd21b6a982c
+_md5_=5011aa69de951c45b80fc8b5b4b4a278
