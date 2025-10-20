@@ -324,14 +324,13 @@ CRATES="
 inherit cargo
 
 DESCRIPTION="Swiss Army knife for XML, XPath and XSLT"
-HOMEPAGE="https://github.com/Paligo/${PN}"
+HOMEPAGE="https://github.com/Paligo/xee"
 SRC_URI="${HOMEPAGE}/archive/${PN}-v${PV}.tar.gz
 	${CARGO_CRATE_URIS}"
+S="${WORKDIR}/${PN}-${PN}-v${PV}/${PN}"
 
 LICENSE="MIT"
 # Dependent crate licenses
 LICENSE+=" Apache-2.0 BSD Boost-1.0 Unicode-3.0 ZLIB"
 SLOT="0"
 KEYWORDS="~amd64"
-
-S="${WORKDIR}/${PN}-${PN}-v${PV}/${PN}"
