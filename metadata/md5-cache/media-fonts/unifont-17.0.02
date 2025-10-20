@@ -8,6 +8,6 @@ IUSE=bold X
 KEYWORDS=~amd64
 LICENSE=OFL-1.1 GPL-2+
 SLOT=0
-SRC_URI=mirror://gnu/unifont/unifont-17.0.01/unifont-17.0.01.tar.gz
+SRC_URI=mirror://gnu/unifont/unifont-17.0.02/unifont-17.0.02.tar.gz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
 _md5_=ab40969b34798838969b1e29eb1b1a7d
